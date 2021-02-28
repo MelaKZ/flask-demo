@@ -1,28 +1,51 @@
-<<<<<<< HEAD
-from flask import Flask, render_template, request
+from flask import Flask, render_template, request, session
 import datetime
-=======
-from flask import Flask
->>>>>>> 843a4fc40c0ae20705e6bb6593f851a0b99d72f7
+from flask_session import Session
 
 app = Flask(__name__)
 
 @app.route("/")
 def index():
-<<<<<<< HEAD
     headline = "Nazgulz rock!"
     return render_template("index.html", headline=headline)
 
 
-@app.route("/hello", methods=["POST"])
+@app.route("/hello", methods=["GET", "POST"])
 def hello():
-    name = request.form.get("name")
-    return render_template("hello.html", jname=name)
+    if request.method == "GET":
+        return "You should submit the post to get here"
+    else:
+        name = request.form.get("name")
+        return render_template("hello.html", jname=name)
 
 
 @app.route("/more")
 def more():
     return render_template("more.html")
+
+
+notes_list = []
+
+@app.route("/notes", methods=["GET", "POST"])
+def notes():
+    if request.method == "POST":
+        note = request.form.get("note")
+        notes_list.append(note)
+    return render_template("notes.html", notes=notes_list)
+
+
+app.config["SESSION_PERMANENT"] = False
+app.config["SESSION_TYPE"] = "filesystem"
+Session(app)
+
+@app.route("/session_notes_", methods=["GET", "POST"])
+def session_notes_():
+    if session.get("notes") is None:
+        session["notes"] = []
+    if request.method == "POST":
+        note = request.form.get("note")
+        session["notes"].append(note)
+    return render_template("session_notes_.html", notes=session["notes"])
 
 
 @app.route("/names")
@@ -47,6 +70,3 @@ def zottya():
 @app.route("/<string:name>")
 def valami(shhhh):
     return f"Hello, {shhhh}!"
-=======
-    return "Hello, world!"
->>>>>>> 843a4fc40c0ae20705e6bb6593f851a0b99d72f7
