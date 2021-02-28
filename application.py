@@ -1,10 +1,15 @@
+<<<<<<< HEAD
 from flask import Flask, render_template, request
 import datetime
+=======
+from flask import Flask
+>>>>>>> 843a4fc40c0ae20705e6bb6593f851a0b99d72f7
 
 app = Flask(__name__)
 
 @app.route("/")
 def index():
+<<<<<<< HEAD
     headline = "Nazgulz rock!"
     return render_template("index.html", headline=headline)
 
@@ -42,3 +47,6 @@ def zottya():
 @app.route("/<string:name>")
 def valami(shhhh):
     return f"Hello, {shhhh}!"
+=======
+    return "Hello, world!"
+>>>>>>> 843a4fc40c0ae20705e6bb6593f851a0b99d72f7
