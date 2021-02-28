@@ -11,7 +11,7 @@ def index():
 
 @app.route("/hello", methods=["POST"])
 def hello():
-    name = request.form.get("name_")
+    name = request.form.get("name")
     return render_template("hello.html", jname=name)
 
 
@@ -40,5 +40,5 @@ def zottya():
 
 
 @app.route("/<string:name>")
-def hello(shhhh):
+def valami(shhhh):
     return f"Hello, {shhhh}!"
