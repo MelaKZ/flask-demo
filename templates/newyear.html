@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <title>
+      Index.html from template
+    </title>
+  </head>
+  <body>
+    {% if new_year %}
+      <h1>HAPPY NEW YEAR!<h1>
+    {% else %}
+      <h1>NO!<h1>
+      <h3>The actual date is {{ date_ }}</h3>
+    {% endif %}
+  </body>
+</html>
