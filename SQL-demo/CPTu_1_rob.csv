@@ -1,0 +1,1011 @@
+,melyseg,az_talajnem,az_jel,az_szin,al_talajtipus,al_allapot,al_szin
+0,0.0,,,black,,,black
+1,0.02,,,black,,,black
+2,0.04,,,black,,,black
+3,0.06,,,black,,,black
+4,0.08,,,black,,,black
+5,0.1,,,black,,,black
+6,0.12,,,black,,,black
+7,0.14,,,black,,,black
+8,0.16,,,black,,,black
+9,0.18,,,black,,,black
+10,0.2,,,black,,,black
+11,0.22,AGYAG,Cl,#ff9999,2.0,nagyon puha,#ffff80
+12,0.24,"érzékeny, finom szemcsés TALAJ",S,#cc3a00,1.0,nagyon laza,#e0e4eb
+13,0.26,agyagos ISZAP - iszapos AGYAG,clSi-siCl,#999999,1.0,nagyon laza,#e0e4eb
+14,0.28,agyagos ISZAP - iszapos AGYAG,clSi-siCl,#999999,1.0,nagyon laza,#e0e4eb
+15,0.3,homokos ISZAP - agyagos ISZAP,saSi-clSi,#95a63f,1.0,nagyon laza,#e0e4eb
+16,0.32,iszapos HOMOK - homokos ISZAP,siSa-saSi,#b4c270,1.0,nagyon laza,#e0e4eb
+17,0.34,HOMOK - iszapos HOMOK,Sa-siSa,#e0a552,1.0,laza,#b3bbcc
+18,0.36,HOMOK - iszapos HOMOK,Sa-siSa,#e0a552,1.0,közepesen tömör,#8593ad
+19,0.38,HOMOK,Sa,#ffbf80,1.0,közepesen tömör,#8593ad
+20,0.4,HOMOK,Sa,#ffbf80,1.0,tömör,#52607a
+21,0.42,HOMOK,Sa,#ffbf80,1.0,tömör,#52607a
+22,0.44,HOMOK - iszapos HOMOK,Sa-siSa,#e0a552,1.0,tömör,#52607a
+23,0.46,HOMOK - iszapos HOMOK,Sa-siSa,#e0a552,1.0,közepesen tömör,#8593ad
+24,0.48,HOMOK - iszapos HOMOK,Sa-siSa,#e0a552,1.0,közepesen tömör,#8593ad
+25,0.5,iszapos HOMOK - homokos ISZAP,siSa-saSi,#b4c270,1.0,közepesen tömör,#8593ad
+26,0.52,iszapos HOMOK - homokos ISZAP,siSa-saSi,#b4c270,2.0,kemény,#1f7a7a
+27,0.54,homokos ISZAP - agyagos ISZAP,saSi-clSi,#95a63f,2.0,kemény,#1f7a7a
+28,0.56,agyagos ISZAP - iszapos AGYAG,clSi-siCl,#999999,2.0,kemény,#1f7a7a
+29,0.58,iszapos AGYAG - AGYAG,siCl-Cl,#666666,2.0,kemény,#1f7a7a
+30,0.6,iszapos AGYAG - AGYAG,siCl-Cl,#666666,2.0,kemény,#1f7a7a
+31,0.62,iszapos AGYAG - AGYAG,siCl-Cl,#666666,2.0,kemény,#1f7a7a
+32,0.64,"nagyon merev, finom szemcsés HOMOK (OCR)",Sa*,#666b2e,2.0,kemény,#1f7a7a
+33,0.66,agyagos ISZAP - iszapos AGYAG,clSi-siCl,#999999,2.0,kemény,#1f7a7a
+34,0.68,homokos ISZAP - agyagos ISZAP,saSi-clSi,#95a63f,2.0,kemény,#1f7a7a
+35,0.7,homokos ISZAP - agyagos ISZAP,saSi-clSi,#95a63f,2.0,kemény,#1f7a7a
+36,0.72,iszapos HOMOK - homokos ISZAP,siSa-saSi,#b4c270,1.0,közepesen tömör,#8593ad
+37,0.74,iszapos HOMOK - homokos ISZAP,siSa-saSi,#b4c270,1.0,közepesen tömör,#8593ad
+38,0.76,iszapos HOMOK - homokos ISZAP,siSa-saSi,#b4c270,1.0,közepesen tömör,#8593ad
+39,0.78,iszapos HOMOK - homokos ISZAP,siSa-saSi,#b4c270,1.0,közepesen tömör,#8593ad
+40,0.8,HOMOK - iszapos HOMOK,Sa-siSa,#e0a552,1.0,közepesen tömör,#8593ad
+41,0.82,HOMOK - iszapos HOMOK,Sa-siSa,#e0a552,1.0,közepesen tömör,#8593ad
+42,0.84,HOMOK - iszapos HOMOK,Sa-siSa,#e0a552,1.0,közepesen tömör,#8593ad
+43,0.86,HOMOK - iszapos HOMOK,Sa-siSa,#e0a552,1.0,közepesen tömör,#8593ad
+44,0.88,HOMOK - iszapos HOMOK,Sa-siSa,#e0a552,1.0,közepesen tömör,#8593ad
+45,0.9,HOMOK,Sa,#ffbf80,1.0,közepesen tömör,#8593ad
+46,0.92,HOMOK,Sa,#ffbf80,1.0,közepesen tömör,#8593ad
+47,0.94,HOMOK - iszapos HOMOK,Sa-siSa,#e0a552,1.0,közepesen tömör,#8593ad
+48,0.96,HOMOK - iszapos HOMOK,Sa-siSa,#e0a552,1.0,közepesen tömör,#8593ad
+49,0.98,HOMOK - iszapos HOMOK,Sa-siSa,#e0a552,1.0,közepesen tömör,#8593ad
+50,1.0,HOMOK - iszapos HOMOK,Sa-siSa,#e0a552,1.0,közepesen tömör,#8593ad
+51,1.02,HOMOK - iszapos HOMOK,Sa-siSa,#e0a552,1.0,közepesen tömör,#8593ad
+52,1.04,HOMOK - iszapos HOMOK,Sa-siSa,#e0a552,1.0,közepesen tömör,#8593ad
+53,1.06,HOMOK - iszapos HOMOK,Sa-siSa,#e0a552,1.0,közepesen tömör,#8593ad
+54,1.08,HOMOK - iszapos HOMOK,Sa-siSa,#e0a552,1.0,laza,#b3bbcc
+55,1.1,HOMOK - iszapos HOMOK,Sa-siSa,#e0a552,1.0,laza,#b3bbcc
+56,1.12,HOMOK - iszapos HOMOK,Sa-siSa,#e0a552,1.0,laza,#b3bbcc
+57,1.14,HOMOK - iszapos HOMOK,Sa-siSa,#e0a552,1.0,laza,#b3bbcc
+58,1.16,HOMOK - iszapos HOMOK,Sa-siSa,#e0a552,1.0,laza,#b3bbcc
+59,1.18,HOMOK - iszapos HOMOK,Sa-siSa,#e0a552,1.0,laza,#b3bbcc
+60,1.2,HOMOK - iszapos HOMOK,Sa-siSa,#e0a552,1.0,laza,#b3bbcc
+61,1.22,HOMOK - iszapos HOMOK,Sa-siSa,#e0a552,1.0,közepesen tömör,#8593ad
+62,1.24,HOMOK - iszapos HOMOK,Sa-siSa,#e0a552,1.0,közepesen tömör,#8593ad
+63,1.26,HOMOK - iszapos HOMOK,Sa-siSa,#e0a552,1.0,közepesen tömör,#8593ad
+64,1.28,HOMOK,Sa,#ffbf80,1.0,közepesen tömör,#8593ad
+65,1.3,HOMOK,Sa,#ffbf80,1.0,közepesen tömör,#8593ad
+66,1.32,HOMOK - iszapos HOMOK,Sa-siSa,#e0a552,1.0,közepesen tömör,#8593ad
+67,1.34,HOMOK - iszapos HOMOK,Sa-siSa,#e0a552,1.0,közepesen tömör,#8593ad
+68,1.36,HOMOK - iszapos HOMOK,Sa-siSa,#e0a552,1.0,közepesen tömör,#8593ad
+69,1.38,HOMOK - iszapos HOMOK,Sa-siSa,#e0a552,1.0,közepesen tömör,#8593ad
+70,1.4,HOMOK - iszapos HOMOK,Sa-siSa,#e0a552,1.0,közepesen tömör,#8593ad
+71,1.42,HOMOK - iszapos HOMOK,Sa-siSa,#e0a552,1.0,közepesen tömör,#8593ad
+72,1.44,HOMOK - iszapos HOMOK,Sa-siSa,#e0a552,1.0,közepesen tömör,#8593ad
+73,1.46,HOMOK,Sa,#ffbf80,1.0,közepesen tömör,#8593ad
+74,1.48,HOMOK,Sa,#ffbf80,1.0,tömör,#52607a
+75,1.5,HOMOK,Sa,#ffbf80,1.0,tömör,#52607a
+76,1.52,HOMOK,Sa,#ffbf80,1.0,tömör,#52607a
+77,1.54,HOMOK,Sa,#ffbf80,1.0,tömör,#52607a
+78,1.56,HOMOK,Sa,#ffbf80,1.0,tömör,#52607a
+79,1.58,HOMOK,Sa,#ffbf80,1.0,tömör,#52607a
+80,1.6,HOMOK,Sa,#ffbf80,1.0,tömör,#52607a
+81,1.62,HOMOK,Sa,#ffbf80,1.0,tömör,#52607a
+82,1.64,HOMOK,Sa,#ffbf80,1.0,tömör,#52607a
+83,1.66,HOMOK,Sa,#ffbf80,1.0,tömör,#52607a
+84,1.68,HOMOK,Sa,#ffbf80,1.0,tömör,#52607a
+85,1.7,HOMOK,Sa,#ffbf80,1.0,tömör,#52607a
+86,1.72,HOMOK,Sa,#ffbf80,1.0,tömör,#52607a
+87,1.74,HOMOK,Sa,#ffbf80,1.0,tömör,#52607a
+88,1.76,HOMOK,Sa,#ffbf80,1.0,tömör,#52607a
+89,1.78,HOMOK,Sa,#ffbf80,1.0,tömör,#52607a
+90,1.8,HOMOK,Sa,#ffbf80,1.0,tömör,#52607a
+91,1.82,HOMOK,Sa,#ffbf80,1.0,tömör,#52607a
+92,1.84,HOMOK,Sa,#ffbf80,1.0,tömör,#52607a
+93,1.86,HOMOK,Sa,#ffbf80,1.0,tömör,#52607a
+94,1.88,HOMOK,Sa,#ffbf80,1.0,tömör,#52607a
+95,1.9,HOMOK,Sa,#ffbf80,1.0,nagyon tömör,#141d52
+96,1.92,HOMOK,Sa,#ffbf80,1.0,nagyon tömör,#141d52
+97,1.94,kavicsos HOMOK - HOMOK,grSa-Sa,#f2f28c,1.0,nagyon tömör,#141d52
+98,1.96,kavicsos HOMOK - HOMOK,grSa-Sa,#f2f28c,1.0,nagyon tömör,#141d52
+99,1.98,kavicsos HOMOK - HOMOK,grSa-Sa,#f2f28c,1.0,nagyon tömör,#141d52
+100,2.0,kavicsos HOMOK - HOMOK,grSa-Sa,#f2f28c,1.0,nagyon tömör,#141d52
+101,2.02,kavicsos HOMOK - HOMOK,grSa-Sa,#f2f28c,1.0,nagyon tömör,#141d52
+102,2.04,kavicsos HOMOK - HOMOK,grSa-Sa,#f2f28c,1.0,nagyon tömör,#141d52
+103,2.06,kavicsos HOMOK - HOMOK,grSa-Sa,#f2f28c,1.0,nagyon tömör,#141d52
+104,2.08,kavicsos HOMOK - HOMOK,grSa-Sa,#f2f28c,1.0,nagyon tömör,#141d52
+105,2.1,kavicsos HOMOK - HOMOK,grSa-Sa,#f2f28c,1.0,nagyon tömör,#141d52
+106,2.12,kavicsos HOMOK - HOMOK,grSa-Sa,#f2f28c,1.0,nagyon tömör,#141d52
+107,2.14,kavicsos HOMOK - HOMOK,grSa-Sa,#f2f28c,1.0,nagyon tömör,#141d52
+108,2.16,kavicsos HOMOK - HOMOK,grSa-Sa,#f2f28c,1.0,nagyon tömör,#141d52
+109,2.18,kavicsos HOMOK - HOMOK,grSa-Sa,#f2f28c,1.0,nagyon tömör,#141d52
+110,2.2,kavicsos HOMOK - HOMOK,grSa-Sa,#f2f28c,1.0,nagyon tömör,#141d52
+111,2.22,kavicsos HOMOK - HOMOK,grSa-Sa,#f2f28c,1.0,nagyon tömör,#141d52
+112,2.24,kavicsos HOMOK - HOMOK,grSa-Sa,#f2f28c,1.0,nagyon tömör,#141d52
+113,2.26,kavicsos HOMOK - HOMOK,grSa-Sa,#f2f28c,1.0,nagyon tömör,#141d52
+114,2.28,kavicsos HOMOK - HOMOK,grSa-Sa,#f2f28c,1.0,nagyon tömör,#141d52
+115,2.3,kavicsos HOMOK - HOMOK,grSa-Sa,#f2f28c,1.0,nagyon tömör,#141d52
+116,2.32,kavicsos HOMOK - HOMOK,grSa-Sa,#f2f28c,1.0,nagyon tömör,#141d52
+117,2.34,kavicsos HOMOK - HOMOK,grSa-Sa,#f2f28c,1.0,nagyon tömör,#141d52
+118,2.36,kavicsos HOMOK - HOMOK,grSa-Sa,#f2f28c,1.0,nagyon tömör,#141d52
+119,2.38,kavicsos HOMOK - HOMOK,grSa-Sa,#f2f28c,1.0,nagyon tömör,#141d52
+120,2.4,kavicsos HOMOK - HOMOK,grSa-Sa,#f2f28c,1.0,nagyon tömör,#141d52
+121,2.42,kavicsos HOMOK - HOMOK,grSa-Sa,#f2f28c,1.0,nagyon tömör,#141d52
+122,2.44,kavicsos HOMOK - HOMOK,grSa-Sa,#f2f28c,1.0,nagyon tömör,#141d52
+123,2.46,kavicsos HOMOK - HOMOK,grSa-Sa,#f2f28c,1.0,nagyon tömör,#141d52
+124,2.48,kavicsos HOMOK - HOMOK,grSa-Sa,#f2f28c,1.0,nagyon tömör,#141d52
+125,2.5,kavicsos HOMOK - HOMOK,grSa-Sa,#f2f28c,1.0,nagyon tömör,#141d52
+126,2.52,kavicsos HOMOK - HOMOK,grSa-Sa,#f2f28c,1.0,nagyon tömör,#141d52
+127,2.54,kavicsos HOMOK - HOMOK,grSa-Sa,#f2f28c,1.0,nagyon tömör,#141d52
+128,2.56,kavicsos HOMOK - HOMOK,grSa-Sa,#f2f28c,1.0,nagyon tömör,#141d52
+129,2.58,kavicsos HOMOK - HOMOK,grSa-Sa,#f2f28c,1.0,nagyon tömör,#141d52
+130,2.6,kavicsos HOMOK - HOMOK,grSa-Sa,#f2f28c,1.0,nagyon tömör,#141d52
+131,2.62,kavicsos HOMOK - HOMOK,grSa-Sa,#f2f28c,1.0,nagyon tömör,#141d52
+132,2.64,kavicsos HOMOK - HOMOK,grSa-Sa,#f2f28c,1.0,nagyon tömör,#141d52
+133,2.66,kavicsos HOMOK - HOMOK,grSa-Sa,#f2f28c,1.0,nagyon tömör,#141d52
+134,2.68,kavicsos HOMOK - HOMOK,grSa-Sa,#f2f28c,1.0,nagyon tömör,#141d52
+135,2.7,kavicsos HOMOK - HOMOK,grSa-Sa,#f2f28c,1.0,nagyon tömör,#141d52
+136,2.72,kavicsos HOMOK - HOMOK,grSa-Sa,#f2f28c,1.0,nagyon tömör,#141d52
+137,2.74,kavicsos HOMOK - HOMOK,grSa-Sa,#f2f28c,1.0,nagyon tömör,#141d52
+138,2.76,kavicsos HOMOK - HOMOK,grSa-Sa,#f2f28c,1.0,nagyon tömör,#141d52
+139,2.78,kavicsos HOMOK - HOMOK,grSa-Sa,#f2f28c,1.0,nagyon tömör,#141d52
+140,2.8,kavicsos HOMOK - HOMOK,grSa-Sa,#f2f28c,1.0,nagyon tömör,#141d52
+141,2.82,kavicsos HOMOK - HOMOK,grSa-Sa,#f2f28c,1.0,nagyon tömör,#141d52
+142,2.84,kavicsos HOMOK - HOMOK,grSa-Sa,#f2f28c,1.0,nagyon tömör,#141d52
+143,2.86,kavicsos HOMOK - HOMOK,grSa-Sa,#f2f28c,1.0,nagyon tömör,#141d52
+144,2.88,kavicsos HOMOK - HOMOK,grSa-Sa,#f2f28c,1.0,nagyon tömör,#141d52
+145,2.9,kavicsos HOMOK - HOMOK,grSa-Sa,#f2f28c,1.0,nagyon tömör,#141d52
+146,2.92,kavicsos HOMOK - HOMOK,grSa-Sa,#f2f28c,1.0,nagyon tömör,#141d52
+147,2.94,kavicsos HOMOK - HOMOK,grSa-Sa,#f2f28c,1.0,nagyon tömör,#141d52
+148,2.96,kavicsos HOMOK - HOMOK,grSa-Sa,#f2f28c,1.0,nagyon tömör,#141d52
+149,2.98,kavicsos HOMOK - HOMOK,grSa-Sa,#f2f28c,1.0,nagyon tömör,#141d52
+150,3.0,kavicsos HOMOK - HOMOK,grSa-Sa,#f2f28c,1.0,nagyon tömör,#141d52
+151,3.02,kavicsos HOMOK - HOMOK,grSa-Sa,#f2f28c,1.0,nagyon tömör,#141d52
+152,3.04,kavicsos HOMOK - HOMOK,grSa-Sa,#f2f28c,1.0,nagyon tömör,#141d52
+153,3.06,kavicsos HOMOK - HOMOK,grSa-Sa,#f2f28c,1.0,nagyon tömör,#141d52
+154,3.08,kavicsos HOMOK - HOMOK,grSa-Sa,#f2f28c,1.0,nagyon tömör,#141d52
+155,3.1,kavicsos HOMOK - HOMOK,grSa-Sa,#f2f28c,1.0,nagyon tömör,#141d52
+156,3.12,kavicsos HOMOK - HOMOK,grSa-Sa,#f2f28c,1.0,nagyon tömör,#141d52
+157,3.14,kavicsos HOMOK - HOMOK,grSa-Sa,#f2f28c,1.0,nagyon tömör,#141d52
+158,3.16,kavicsos HOMOK - HOMOK,grSa-Sa,#f2f28c,1.0,nagyon tömör,#141d52
+159,3.18,kavicsos HOMOK - HOMOK,grSa-Sa,#f2f28c,1.0,nagyon tömör,#141d52
+160,3.2,kavicsos HOMOK - HOMOK,grSa-Sa,#f2f28c,1.0,nagyon tömör,#141d52
+161,3.22,kavicsos HOMOK - HOMOK,grSa-Sa,#f2f28c,1.0,nagyon tömör,#141d52
+162,3.24,kavicsos HOMOK - HOMOK,grSa-Sa,#f2f28c,1.0,nagyon tömör,#141d52
+163,3.26,HOMOK,Sa,#ffbf80,1.0,nagyon tömör,#141d52
+164,3.28,HOMOK,Sa,#ffbf80,1.0,nagyon tömör,#141d52
+165,3.3,kavicsos HOMOK - HOMOK,grSa-Sa,#f2f28c,1.0,nagyon tömör,#141d52
+166,3.32,HOMOK,Sa,#ffbf80,1.0,nagyon tömör,#141d52
+167,3.34,HOMOK,Sa,#ffbf80,1.0,nagyon tömör,#141d52
+168,3.36,HOMOK,Sa,#ffbf80,1.0,nagyon tömör,#141d52
+169,3.38,HOMOK,Sa,#ffbf80,1.0,nagyon tömör,#141d52
+170,3.4,kavicsos HOMOK - HOMOK,grSa-Sa,#f2f28c,1.0,nagyon tömör,#141d52
+171,3.42,kavicsos HOMOK - HOMOK,grSa-Sa,#f2f28c,1.0,nagyon tömör,#141d52
+172,3.44,kavicsos HOMOK - HOMOK,grSa-Sa,#f2f28c,1.0,nagyon tömör,#141d52
+173,3.46,kavicsos HOMOK - HOMOK,grSa-Sa,#f2f28c,1.0,nagyon tömör,#141d52
+174,3.48,kavicsos HOMOK - HOMOK,grSa-Sa,#f2f28c,1.0,nagyon tömör,#141d52
+175,3.5,kavicsos HOMOK - HOMOK,grSa-Sa,#f2f28c,1.0,nagyon tömör,#141d52
+176,3.52,kavicsos HOMOK - HOMOK,grSa-Sa,#f2f28c,1.0,nagyon tömör,#141d52
+177,3.54,kavicsos HOMOK - HOMOK,grSa-Sa,#f2f28c,1.0,nagyon tömör,#141d52
+178,3.56,kavicsos HOMOK - HOMOK,grSa-Sa,#f2f28c,1.0,nagyon tömör,#141d52
+179,3.58,kavicsos HOMOK - HOMOK,grSa-Sa,#f2f28c,1.0,nagyon tömör,#141d52
+180,3.6,kavicsos HOMOK - HOMOK,grSa-Sa,#f2f28c,1.0,nagyon tömör,#141d52
+181,3.62,kavicsos HOMOK - HOMOK,grSa-Sa,#f2f28c,1.0,nagyon tömör,#141d52
+182,3.64,kavicsos HOMOK - HOMOK,grSa-Sa,#f2f28c,1.0,nagyon tömör,#141d52
+183,3.66,kavicsos HOMOK - HOMOK,grSa-Sa,#f2f28c,1.0,nagyon tömör,#141d52
+184,3.68,kavicsos HOMOK - HOMOK,grSa-Sa,#f2f28c,1.0,nagyon tömör,#141d52
+185,3.7,kavicsos HOMOK - HOMOK,grSa-Sa,#f2f28c,1.0,nagyon tömör,#141d52
+186,3.72,kavicsos HOMOK - HOMOK,grSa-Sa,#f2f28c,1.0,nagyon tömör,#141d52
+187,3.74,kavicsos HOMOK - HOMOK,grSa-Sa,#f2f28c,1.0,nagyon tömör,#141d52
+188,3.76,kavicsos HOMOK - HOMOK,grSa-Sa,#f2f28c,1.0,nagyon tömör,#141d52
+189,3.78,kavicsos HOMOK - HOMOK,grSa-Sa,#f2f28c,1.0,nagyon tömör,#141d52
+190,3.8,kavicsos HOMOK - HOMOK,grSa-Sa,#f2f28c,1.0,nagyon tömör,#141d52
+191,3.82,kavicsos HOMOK - HOMOK,grSa-Sa,#f2f28c,1.0,nagyon tömör,#141d52
+192,3.84,kavicsos HOMOK - HOMOK,grSa-Sa,#f2f28c,1.0,tömör,#52607a
+193,3.86,kavicsos HOMOK - HOMOK,grSa-Sa,#f2f28c,1.0,nagyon tömör,#141d52
+194,3.88,kavicsos HOMOK - HOMOK,grSa-Sa,#f2f28c,1.0,nagyon tömör,#141d52
+195,3.9,kavicsos HOMOK - HOMOK,grSa-Sa,#f2f28c,1.0,nagyon tömör,#141d52
+196,3.92,kavicsos HOMOK - HOMOK,grSa-Sa,#f2f28c,1.0,tömör,#52607a
+197,3.94,kavicsos HOMOK - HOMOK,grSa-Sa,#f2f28c,1.0,tömör,#52607a
+198,3.96,HOMOK,Sa,#ffbf80,1.0,tömör,#52607a
+199,3.98,kavicsos HOMOK - HOMOK,grSa-Sa,#f2f28c,1.0,tömör,#52607a
+200,4.0,kavicsos HOMOK - HOMOK,grSa-Sa,#f2f28c,1.0,tömör,#52607a
+201,4.02,kavicsos HOMOK - HOMOK,grSa-Sa,#f2f28c,1.0,tömör,#52607a
+202,4.04,kavicsos HOMOK - HOMOK,grSa-Sa,#f2f28c,1.0,tömör,#52607a
+203,4.06,HOMOK,Sa,#ffbf80,1.0,tömör,#52607a
+204,4.08,kavicsos HOMOK - HOMOK,grSa-Sa,#f2f28c,1.0,nagyon tömör,#141d52
+205,4.1,kavicsos HOMOK - HOMOK,grSa-Sa,#f2f28c,1.0,nagyon tömör,#141d52
+206,4.12,kavicsos HOMOK - HOMOK,grSa-Sa,#f2f28c,1.0,nagyon tömör,#141d52
+207,4.14,kavicsos HOMOK - HOMOK,grSa-Sa,#f2f28c,1.0,nagyon tömör,#141d52
+208,4.16,kavicsos HOMOK - HOMOK,grSa-Sa,#f2f28c,1.0,nagyon tömör,#141d52
+209,4.18,kavicsos HOMOK - HOMOK,grSa-Sa,#f2f28c,1.0,nagyon tömör,#141d52
+210,4.2,kavicsos HOMOK - HOMOK,grSa-Sa,#f2f28c,1.0,nagyon tömör,#141d52
+211,4.22,HOMOK,Sa,#ffbf80,1.0,tömör,#52607a
+212,4.24,HOMOK,Sa,#ffbf80,1.0,tömör,#52607a
+213,4.26,HOMOK,Sa,#ffbf80,1.0,tömör,#52607a
+214,4.28,HOMOK,Sa,#ffbf80,1.0,tömör,#52607a
+215,4.3,HOMOK,Sa,#ffbf80,1.0,tömör,#52607a
+216,4.32,HOMOK,Sa,#ffbf80,1.0,tömör,#52607a
+217,4.34,HOMOK,Sa,#ffbf80,1.0,tömör,#52607a
+218,4.36,HOMOK,Sa,#ffbf80,1.0,tömör,#52607a
+219,4.38,HOMOK,Sa,#ffbf80,1.0,tömör,#52607a
+220,4.4,HOMOK,Sa,#ffbf80,1.0,tömör,#52607a
+221,4.42,HOMOK,Sa,#ffbf80,1.0,tömör,#52607a
+222,4.44,HOMOK,Sa,#ffbf80,1.0,tömör,#52607a
+223,4.46,HOMOK,Sa,#ffbf80,1.0,tömör,#52607a
+224,4.48,HOMOK,Sa,#ffbf80,1.0,tömör,#52607a
+225,4.5,HOMOK,Sa,#ffbf80,1.0,tömör,#52607a
+226,4.52,HOMOK,Sa,#ffbf80,1.0,tömör,#52607a
+227,4.54,HOMOK,Sa,#ffbf80,1.0,tömör,#52607a
+228,4.56,HOMOK,Sa,#ffbf80,1.0,tömör,#52607a
+229,4.58,HOMOK,Sa,#ffbf80,1.0,tömör,#52607a
+230,4.6,HOMOK,Sa,#ffbf80,1.0,tömör,#52607a
+231,4.62,HOMOK,Sa,#ffbf80,1.0,tömör,#52607a
+232,4.64,HOMOK,Sa,#ffbf80,1.0,tömör,#52607a
+233,4.66,HOMOK,Sa,#ffbf80,1.0,tömör,#52607a
+234,4.68,HOMOK,Sa,#ffbf80,1.0,tömör,#52607a
+235,4.7,HOMOK,Sa,#ffbf80,1.0,nagyon tömör,#141d52
+236,4.72,HOMOK,Sa,#ffbf80,1.0,nagyon tömör,#141d52
+237,4.74,kavicsos HOMOK - HOMOK,grSa-Sa,#f2f28c,1.0,nagyon tömör,#141d52
+238,4.76,kavicsos HOMOK - HOMOK,grSa-Sa,#f2f28c,1.0,nagyon tömör,#141d52
+239,4.78,kavicsos HOMOK - HOMOK,grSa-Sa,#f2f28c,1.0,nagyon tömör,#141d52
+240,4.8,kavicsos HOMOK - HOMOK,grSa-Sa,#f2f28c,1.0,nagyon tömör,#141d52
+241,4.82,kavicsos HOMOK - HOMOK,grSa-Sa,#f2f28c,1.0,nagyon tömör,#141d52
+242,4.84,kavicsos HOMOK - HOMOK,grSa-Sa,#f2f28c,1.0,nagyon tömör,#141d52
+243,4.86,kavicsos HOMOK - HOMOK,grSa-Sa,#f2f28c,1.0,nagyon tömör,#141d52
+244,4.88,kavicsos HOMOK - HOMOK,grSa-Sa,#f2f28c,1.0,nagyon tömör,#141d52
+245,4.9,kavicsos HOMOK - HOMOK,grSa-Sa,#f2f28c,1.0,nagyon tömör,#141d52
+246,4.92,kavicsos HOMOK - HOMOK,grSa-Sa,#f2f28c,1.0,nagyon tömör,#141d52
+247,4.94,kavicsos HOMOK - HOMOK,grSa-Sa,#f2f28c,1.0,nagyon tömör,#141d52
+248,4.96,kavicsos HOMOK - HOMOK,grSa-Sa,#f2f28c,1.0,nagyon tömör,#141d52
+249,4.98,kavicsos HOMOK - HOMOK,grSa-Sa,#f2f28c,1.0,nagyon tömör,#141d52
+250,5.0,kavicsos HOMOK - HOMOK,grSa-Sa,#f2f28c,1.0,nagyon tömör,#141d52
+251,5.02,kavicsos HOMOK - HOMOK,grSa-Sa,#f2f28c,1.0,nagyon tömör,#141d52
+252,5.04,kavicsos HOMOK - HOMOK,grSa-Sa,#f2f28c,1.0,nagyon tömör,#141d52
+253,5.06,kavicsos HOMOK - HOMOK,grSa-Sa,#f2f28c,1.0,nagyon tömör,#141d52
+254,5.08,kavicsos HOMOK - HOMOK,grSa-Sa,#f2f28c,1.0,nagyon tömör,#141d52
+255,5.1,kavicsos HOMOK - HOMOK,grSa-Sa,#f2f28c,1.0,nagyon tömör,#141d52
+256,5.12,kavicsos HOMOK - HOMOK,grSa-Sa,#f2f28c,1.0,nagyon tömör,#141d52
+257,5.14,kavicsos HOMOK - HOMOK,grSa-Sa,#f2f28c,1.0,nagyon tömör,#141d52
+258,5.16,kavicsos HOMOK - HOMOK,grSa-Sa,#f2f28c,1.0,nagyon tömör,#141d52
+259,5.18,kavicsos HOMOK - HOMOK,grSa-Sa,#f2f28c,1.0,nagyon tömör,#141d52
+260,5.2,kavicsos HOMOK - HOMOK,grSa-Sa,#f2f28c,1.0,nagyon tömör,#141d52
+261,5.22,kavicsos HOMOK - HOMOK,grSa-Sa,#f2f28c,1.0,nagyon tömör,#141d52
+262,5.24,kavicsos HOMOK - HOMOK,grSa-Sa,#f2f28c,1.0,nagyon tömör,#141d52
+263,5.26,kavicsos HOMOK - HOMOK,grSa-Sa,#f2f28c,1.0,nagyon tömör,#141d52
+264,5.28,HOMOK,Sa,#ffbf80,1.0,tömör,#52607a
+265,5.3,HOMOK,Sa,#ffbf80,1.0,tömör,#52607a
+266,5.32,HOMOK,Sa,#ffbf80,1.0,tömör,#52607a
+267,5.34,HOMOK,Sa,#ffbf80,1.0,tömör,#52607a
+268,5.36,HOMOK,Sa,#ffbf80,1.0,tömör,#52607a
+269,5.38,HOMOK,Sa,#ffbf80,1.0,közepesen tömör,#8593ad
+270,5.4,HOMOK,Sa,#ffbf80,1.0,közepesen tömör,#8593ad
+271,5.42,HOMOK,Sa,#ffbf80,1.0,közepesen tömör,#8593ad
+272,5.44,HOMOK,Sa,#ffbf80,1.0,közepesen tömör,#8593ad
+273,5.46,HOMOK,Sa,#ffbf80,1.0,közepesen tömör,#8593ad
+274,5.48,HOMOK - iszapos HOMOK,Sa-siSa,#e0a552,1.0,közepesen tömör,#8593ad
+275,5.5,HOMOK - iszapos HOMOK,Sa-siSa,#e0a552,1.0,közepesen tömör,#8593ad
+276,5.52,HOMOK - iszapos HOMOK,Sa-siSa,#e0a552,1.0,közepesen tömör,#8593ad
+277,5.54,HOMOK - iszapos HOMOK,Sa-siSa,#e0a552,1.0,laza,#b3bbcc
+278,5.56,HOMOK - iszapos HOMOK,Sa-siSa,#e0a552,1.0,laza,#b3bbcc
+279,5.58,HOMOK - iszapos HOMOK,Sa-siSa,#e0a552,1.0,laza,#b3bbcc
+280,5.6,HOMOK - iszapos HOMOK,Sa-siSa,#e0a552,1.0,közepesen tömör,#8593ad
+281,5.62,HOMOK - iszapos HOMOK,Sa-siSa,#e0a552,1.0,közepesen tömör,#8593ad
+282,5.64,HOMOK - iszapos HOMOK,Sa-siSa,#e0a552,1.0,közepesen tömör,#8593ad
+283,5.66,HOMOK - iszapos HOMOK,Sa-siSa,#e0a552,1.0,közepesen tömör,#8593ad
+284,5.68,HOMOK - iszapos HOMOK,Sa-siSa,#e0a552,1.0,közepesen tömör,#8593ad
+285,5.7,HOMOK - iszapos HOMOK,Sa-siSa,#e0a552,1.0,laza,#b3bbcc
+286,5.72,HOMOK - iszapos HOMOK,Sa-siSa,#e0a552,1.0,közepesen tömör,#8593ad
+287,5.74,HOMOK - iszapos HOMOK,Sa-siSa,#e0a552,1.0,közepesen tömör,#8593ad
+288,5.76,HOMOK - iszapos HOMOK,Sa-siSa,#e0a552,1.0,közepesen tömör,#8593ad
+289,5.78,HOMOK - iszapos HOMOK,Sa-siSa,#e0a552,1.0,laza,#b3bbcc
+290,5.8,HOMOK - iszapos HOMOK,Sa-siSa,#e0a552,1.0,közepesen tömör,#8593ad
+291,5.82,iszapos HOMOK - homokos ISZAP,siSa-saSi,#b4c270,1.0,közepesen tömör,#8593ad
+292,5.84,iszapos HOMOK - homokos ISZAP,siSa-saSi,#b4c270,1.0,közepesen tömör,#8593ad
+293,5.86,iszapos HOMOK - homokos ISZAP,siSa-saSi,#b4c270,1.0,közepesen tömör,#8593ad
+294,5.88,iszapos HOMOK - homokos ISZAP,siSa-saSi,#b4c270,1.0,közepesen tömör,#8593ad
+295,5.9,iszapos HOMOK - homokos ISZAP,siSa-saSi,#b4c270,1.0,közepesen tömör,#8593ad
+296,5.92,iszapos HOMOK - homokos ISZAP,siSa-saSi,#b4c270,1.0,laza,#b3bbcc
+297,5.94,HOMOK - iszapos HOMOK,Sa-siSa,#e0a552,1.0,tömör,#52607a
+298,5.96,HOMOK - iszapos HOMOK,Sa-siSa,#e0a552,1.0,tömör,#52607a
+299,5.98,HOMOK,Sa,#ffbf80,1.0,tömör,#52607a
+300,6.0,kavicsos HOMOK - HOMOK,grSa-Sa,#f2f28c,1.0,nagyon tömör,#141d52
+301,6.02,kavicsos HOMOK - HOMOK,grSa-Sa,#f2f28c,1.0,nagyon tömör,#141d52
+302,6.04,HOMOK,Sa,#ffbf80,1.0,nagyon tömör,#141d52
+303,6.06,HOMOK,Sa,#ffbf80,1.0,nagyon tömör,#141d52
+304,6.08,HOMOK,Sa,#ffbf80,1.0,nagyon tömör,#141d52
+305,6.1,HOMOK,Sa,#ffbf80,1.0,nagyon tömör,#141d52
+306,6.12,HOMOK,Sa,#ffbf80,1.0,nagyon tömör,#141d52
+307,6.14,HOMOK - iszapos HOMOK,Sa-siSa,#e0a552,1.0,nagyon tömör,#141d52
+308,6.16,HOMOK - iszapos HOMOK,Sa-siSa,#e0a552,1.0,nagyon tömör,#141d52
+309,6.18,HOMOK - iszapos HOMOK,Sa-siSa,#e0a552,1.0,nagyon tömör,#141d52
+310,6.2,HOMOK - iszapos HOMOK,Sa-siSa,#e0a552,1.0,nagyon tömör,#141d52
+311,6.22,HOMOK - iszapos HOMOK,Sa-siSa,#e0a552,1.0,nagyon tömör,#141d52
+312,6.24,iszapos HOMOK - homokos ISZAP,siSa-saSi,#b4c270,2.0,kemény,#1f7a7a
+313,6.26,iszapos HOMOK - homokos ISZAP,siSa-saSi,#b4c270,2.0,kemény,#1f7a7a
+314,6.28,iszapos HOMOK - homokos ISZAP,siSa-saSi,#b4c270,2.0,kemény,#1f7a7a
+315,6.3,iszapos HOMOK - homokos ISZAP,siSa-saSi,#b4c270,2.0,kemény,#1f7a7a
+316,6.32,iszapos HOMOK - homokos ISZAP,siSa-saSi,#b4c270,2.0,kemény,#1f7a7a
+317,6.34,iszapos HOMOK - homokos ISZAP,siSa-saSi,#b4c270,2.0,kemény,#1f7a7a
+318,6.36,homokos ISZAP - agyagos ISZAP,saSi-clSi,#95a63f,2.0,kemény,#1f7a7a
+319,6.38,iszapos HOMOK - homokos ISZAP,siSa-saSi,#b4c270,2.0,kemény,#1f7a7a
+320,6.4,homokos ISZAP - agyagos ISZAP,saSi-clSi,#95a63f,2.0,kemény,#1f7a7a
+321,6.42,homokos ISZAP - agyagos ISZAP,saSi-clSi,#95a63f,2.0,kemény,#1f7a7a
+322,6.44,iszapos HOMOK - homokos ISZAP,siSa-saSi,#b4c270,2.0,kemény,#1f7a7a
+323,6.46,homokos ISZAP - agyagos ISZAP,saSi-clSi,#95a63f,2.0,kemény,#1f7a7a
+324,6.48,homokos ISZAP - agyagos ISZAP,saSi-clSi,#95a63f,2.0,kemény,#1f7a7a
+325,6.5,agyagos ISZAP - iszapos AGYAG,clSi-siCl,#999999,2.0,kemény,#1f7a7a
+326,6.52,agyagos ISZAP - iszapos AGYAG,clSi-siCl,#999999,2.0,kemény,#1f7a7a
+327,6.54,agyagos ISZAP - iszapos AGYAG,clSi-siCl,#999999,2.0,kemény,#1f7a7a
+328,6.56,homokos ISZAP - agyagos ISZAP,saSi-clSi,#95a63f,2.0,kemény,#1f7a7a
+329,6.58,homokos ISZAP - agyagos ISZAP,saSi-clSi,#95a63f,2.0,kemény,#1f7a7a
+330,6.6,homokos ISZAP - agyagos ISZAP,saSi-clSi,#95a63f,2.0,kemény,#1f7a7a
+331,6.62,homokos ISZAP - agyagos ISZAP,saSi-clSi,#95a63f,2.0,kemény,#1f7a7a
+332,6.64,homokos ISZAP - agyagos ISZAP,saSi-clSi,#95a63f,2.0,kemény,#1f7a7a
+333,6.66,homokos ISZAP - agyagos ISZAP,saSi-clSi,#95a63f,2.0,kemény,#1f7a7a
+334,6.68,homokos ISZAP - agyagos ISZAP,saSi-clSi,#95a63f,2.0,nagyon merev,#158a0f
+335,6.7,agyagos ISZAP - iszapos AGYAG,clSi-siCl,#999999,2.0,nagyon merev,#158a0f
+336,6.72,homokos ISZAP - agyagos ISZAP,saSi-clSi,#95a63f,2.0,nagyon merev,#158a0f
+337,6.74,homokos ISZAP - agyagos ISZAP,saSi-clSi,#95a63f,2.0,nagyon merev,#158a0f
+338,6.76,homokos ISZAP - agyagos ISZAP,saSi-clSi,#95a63f,1.0,laza,#b3bbcc
+339,6.78,homokos ISZAP - agyagos ISZAP,saSi-clSi,#95a63f,1.0,laza,#b3bbcc
+340,6.8,homokos ISZAP - agyagos ISZAP,saSi-clSi,#95a63f,1.0,laza,#b3bbcc
+341,6.82,homokos ISZAP - agyagos ISZAP,saSi-clSi,#95a63f,2.0,nagyon merev,#158a0f
+342,6.84,homokos ISZAP - agyagos ISZAP,saSi-clSi,#95a63f,2.0,nagyon merev,#158a0f
+343,6.86,agyagos ISZAP - iszapos AGYAG,clSi-siCl,#999999,2.0,nagyon merev,#158a0f
+344,6.88,agyagos ISZAP - iszapos AGYAG,clSi-siCl,#999999,2.0,nagyon merev,#158a0f
+345,6.9,agyagos ISZAP - iszapos AGYAG,clSi-siCl,#999999,2.0,nagyon merev,#158a0f
+346,6.92,agyagos ISZAP - iszapos AGYAG,clSi-siCl,#999999,2.0,nagyon merev,#158a0f
+347,6.94,agyagos ISZAP - iszapos AGYAG,clSi-siCl,#999999,2.0,nagyon merev,#158a0f
+348,6.96,agyagos ISZAP - iszapos AGYAG,clSi-siCl,#999999,2.0,nagyon merev,#158a0f
+349,6.98,agyagos ISZAP - iszapos AGYAG,clSi-siCl,#999999,2.0,nagyon merev,#158a0f
+350,7.0,agyagos ISZAP - iszapos AGYAG,clSi-siCl,#999999,2.0,nagyon merev,#158a0f
+351,7.02,homokos ISZAP - agyagos ISZAP,saSi-clSi,#95a63f,2.0,kemény,#1f7a7a
+352,7.04,homokos ISZAP - agyagos ISZAP,saSi-clSi,#95a63f,2.0,kemény,#1f7a7a
+353,7.06,iszapos HOMOK - homokos ISZAP,siSa-saSi,#b4c270,2.0,kemény,#1f7a7a
+354,7.08,iszapos HOMOK - homokos ISZAP,siSa-saSi,#b4c270,1.0,közepesen tömör,#8593ad
+355,7.1,iszapos HOMOK - homokos ISZAP,siSa-saSi,#b4c270,1.0,közepesen tömör,#8593ad
+356,7.12,iszapos HOMOK - homokos ISZAP,siSa-saSi,#b4c270,1.0,tömör,#52607a
+357,7.14,iszapos HOMOK - homokos ISZAP,siSa-saSi,#b4c270,2.0,kemény,#1f7a7a
+358,7.16,iszapos HOMOK - homokos ISZAP,siSa-saSi,#b4c270,2.0,kemény,#1f7a7a
+359,7.18,homokos ISZAP - agyagos ISZAP,saSi-clSi,#95a63f,2.0,kemény,#1f7a7a
+360,7.2,homokos ISZAP - agyagos ISZAP,saSi-clSi,#95a63f,2.0,kemény,#1f7a7a
+361,7.22,"nagyon merev, finom szemcsés HOMOK (OCR)",Sa*,#666b2e,2.0,kemény,#1f7a7a
+362,7.24,"nagyon merev, finom szemcsés HOMOK (OCR)",Sa*,#666b2e,2.0,kemény,#1f7a7a
+363,7.26,"nagyon merev, finom szemcsés HOMOK (OCR)",Sa*,#666b2e,2.0,kemény,#1f7a7a
+364,7.28,nagyon merev HOMOK - agyagos HOMOK (OCR),Sa-clSa*,#ffa64d,2.0,kemény,#1f7a7a
+365,7.3,homokos ISZAP - agyagos ISZAP,saSi-clSi,#95a63f,2.0,kemény,#1f7a7a
+366,7.32,iszapos HOMOK - homokos ISZAP,siSa-saSi,#b4c270,2.0,kemény,#1f7a7a
+367,7.34,iszapos HOMOK - homokos ISZAP,siSa-saSi,#b4c270,2.0,kemény,#1f7a7a
+368,7.36,iszapos HOMOK - homokos ISZAP,siSa-saSi,#b4c270,2.0,kemény,#1f7a7a
+369,7.38,iszapos HOMOK - homokos ISZAP,siSa-saSi,#b4c270,1.0,közepesen tömör,#8593ad
+370,7.4,iszapos HOMOK - homokos ISZAP,siSa-saSi,#b4c270,1.0,közepesen tömör,#8593ad
+371,7.42,iszapos HOMOK - homokos ISZAP,siSa-saSi,#b4c270,2.0,kemény,#1f7a7a
+372,7.44,iszapos HOMOK - homokos ISZAP,siSa-saSi,#b4c270,2.0,kemény,#1f7a7a
+373,7.46,homokos ISZAP - agyagos ISZAP,saSi-clSi,#95a63f,2.0,kemény,#1f7a7a
+374,7.48,homokos ISZAP - agyagos ISZAP,saSi-clSi,#95a63f,2.0,kemény,#1f7a7a
+375,7.5,homokos ISZAP - agyagos ISZAP,saSi-clSi,#95a63f,2.0,kemény,#1f7a7a
+376,7.52,agyagos ISZAP - iszapos AGYAG,clSi-siCl,#999999,2.0,kemény,#1f7a7a
+377,7.54,agyagos ISZAP - iszapos AGYAG,clSi-siCl,#999999,2.0,nagyon merev,#158a0f
+378,7.56,agyagos ISZAP - iszapos AGYAG,clSi-siCl,#999999,2.0,nagyon merev,#158a0f
+379,7.58,iszapos AGYAG - AGYAG,siCl-Cl,#666666,2.0,nagyon merev,#158a0f
+380,7.6,iszapos AGYAG - AGYAG,siCl-Cl,#666666,2.0,nagyon merev,#158a0f
+381,7.62,agyagos ISZAP - iszapos AGYAG,clSi-siCl,#999999,2.0,kemény,#1f7a7a
+382,7.64,homokos ISZAP - agyagos ISZAP,saSi-clSi,#95a63f,2.0,kemény,#1f7a7a
+383,7.66,homokos ISZAP - agyagos ISZAP,saSi-clSi,#95a63f,2.0,kemény,#1f7a7a
+384,7.68,homokos ISZAP - agyagos ISZAP,saSi-clSi,#95a63f,2.0,kemény,#1f7a7a
+385,7.7,homokos ISZAP - agyagos ISZAP,saSi-clSi,#95a63f,2.0,kemény,#1f7a7a
+386,7.72,iszapos HOMOK - homokos ISZAP,siSa-saSi,#b4c270,2.0,kemény,#1f7a7a
+387,7.74,iszapos HOMOK - homokos ISZAP,siSa-saSi,#b4c270,1.0,közepesen tömör,#8593ad
+388,7.76,iszapos HOMOK - homokos ISZAP,siSa-saSi,#b4c270,1.0,közepesen tömör,#8593ad
+389,7.78,iszapos HOMOK - homokos ISZAP,siSa-saSi,#b4c270,1.0,közepesen tömör,#8593ad
+390,7.8,HOMOK - iszapos HOMOK,Sa-siSa,#e0a552,1.0,közepesen tömör,#8593ad
+391,7.82,HOMOK - iszapos HOMOK,Sa-siSa,#e0a552,1.0,közepesen tömör,#8593ad
+392,7.84,HOMOK - iszapos HOMOK,Sa-siSa,#e0a552,1.0,közepesen tömör,#8593ad
+393,7.86,HOMOK - iszapos HOMOK,Sa-siSa,#e0a552,1.0,közepesen tömör,#8593ad
+394,7.88,HOMOK - iszapos HOMOK,Sa-siSa,#e0a552,1.0,közepesen tömör,#8593ad
+395,7.9,HOMOK - iszapos HOMOK,Sa-siSa,#e0a552,1.0,közepesen tömör,#8593ad
+396,7.92,HOMOK - iszapos HOMOK,Sa-siSa,#e0a552,1.0,közepesen tömör,#8593ad
+397,7.94,HOMOK - iszapos HOMOK,Sa-siSa,#e0a552,1.0,közepesen tömör,#8593ad
+398,7.96,HOMOK - iszapos HOMOK,Sa-siSa,#e0a552,1.0,közepesen tömör,#8593ad
+399,7.98,HOMOK - iszapos HOMOK,Sa-siSa,#e0a552,1.0,közepesen tömör,#8593ad
+400,8.0,HOMOK - iszapos HOMOK,Sa-siSa,#e0a552,1.0,közepesen tömör,#8593ad
+401,8.02,iszapos HOMOK - homokos ISZAP,siSa-saSi,#b4c270,1.0,közepesen tömör,#8593ad
+402,8.04,iszapos HOMOK - homokos ISZAP,siSa-saSi,#b4c270,1.0,közepesen tömör,#8593ad
+403,8.06,iszapos HOMOK - homokos ISZAP,siSa-saSi,#b4c270,1.0,közepesen tömör,#8593ad
+404,8.08,iszapos HOMOK - homokos ISZAP,siSa-saSi,#b4c270,1.0,közepesen tömör,#8593ad
+405,8.1,iszapos HOMOK - homokos ISZAP,siSa-saSi,#b4c270,1.0,közepesen tömör,#8593ad
+406,8.12,iszapos HOMOK - homokos ISZAP,siSa-saSi,#b4c270,1.0,közepesen tömör,#8593ad
+407,8.14,iszapos HOMOK - homokos ISZAP,siSa-saSi,#b4c270,1.0,közepesen tömör,#8593ad
+408,8.16,iszapos HOMOK - homokos ISZAP,siSa-saSi,#b4c270,1.0,közepesen tömör,#8593ad
+409,8.18,HOMOK - iszapos HOMOK,Sa-siSa,#e0a552,1.0,közepesen tömör,#8593ad
+410,8.2,HOMOK - iszapos HOMOK,Sa-siSa,#e0a552,1.0,tömör,#52607a
+411,8.22,HOMOK - iszapos HOMOK,Sa-siSa,#e0a552,1.0,tömör,#52607a
+412,8.24,HOMOK - iszapos HOMOK,Sa-siSa,#e0a552,1.0,tömör,#52607a
+413,8.26,HOMOK - iszapos HOMOK,Sa-siSa,#e0a552,1.0,tömör,#52607a
+414,8.28,iszapos HOMOK - homokos ISZAP,siSa-saSi,#b4c270,1.0,tömör,#52607a
+415,8.3,iszapos HOMOK - homokos ISZAP,siSa-saSi,#b4c270,1.0,tömör,#52607a
+416,8.32,iszapos HOMOK - homokos ISZAP,siSa-saSi,#b4c270,1.0,tömör,#52607a
+417,8.34,iszapos HOMOK - homokos ISZAP,siSa-saSi,#b4c270,1.0,tömör,#52607a
+418,8.36,iszapos HOMOK - homokos ISZAP,siSa-saSi,#b4c270,1.0,tömör,#52607a
+419,8.38,iszapos HOMOK - homokos ISZAP,siSa-saSi,#b4c270,1.0,tömör,#52607a
+420,8.4,iszapos HOMOK - homokos ISZAP,siSa-saSi,#b4c270,1.0,tömör,#52607a
+421,8.42,iszapos HOMOK - homokos ISZAP,siSa-saSi,#b4c270,1.0,tömör,#52607a
+422,8.44,iszapos HOMOK - homokos ISZAP,siSa-saSi,#b4c270,1.0,tömör,#52607a
+423,8.46,iszapos HOMOK - homokos ISZAP,siSa-saSi,#b4c270,1.0,tömör,#52607a
+424,8.48,HOMOK - iszapos HOMOK,Sa-siSa,#e0a552,1.0,tömör,#52607a
+425,8.5,HOMOK - iszapos HOMOK,Sa-siSa,#e0a552,1.0,tömör,#52607a
+426,8.52,HOMOK - iszapos HOMOK,Sa-siSa,#e0a552,1.0,tömör,#52607a
+427,8.54,HOMOK - iszapos HOMOK,Sa-siSa,#e0a552,1.0,tömör,#52607a
+428,8.56,HOMOK - iszapos HOMOK,Sa-siSa,#e0a552,1.0,tömör,#52607a
+429,8.58,iszapos HOMOK - homokos ISZAP,siSa-saSi,#b4c270,1.0,tömör,#52607a
+430,8.6,iszapos HOMOK - homokos ISZAP,siSa-saSi,#b4c270,2.0,kemény,#1f7a7a
+431,8.62,homokos ISZAP - agyagos ISZAP,saSi-clSi,#95a63f,2.0,kemény,#1f7a7a
+432,8.64,homokos ISZAP - agyagos ISZAP,saSi-clSi,#95a63f,2.0,kemény,#1f7a7a
+433,8.66,homokos ISZAP - agyagos ISZAP,saSi-clSi,#95a63f,2.0,kemény,#1f7a7a
+434,8.68,homokos ISZAP - agyagos ISZAP,saSi-clSi,#95a63f,2.0,kemény,#1f7a7a
+435,8.7,homokos ISZAP - agyagos ISZAP,saSi-clSi,#95a63f,2.0,kemény,#1f7a7a
+436,8.72,homokos ISZAP - agyagos ISZAP,saSi-clSi,#95a63f,2.0,kemény,#1f7a7a
+437,8.74,homokos ISZAP - agyagos ISZAP,saSi-clSi,#95a63f,2.0,nagyon merev,#158a0f
+438,8.76,homokos ISZAP - agyagos ISZAP,saSi-clSi,#95a63f,2.0,nagyon merev,#158a0f
+439,8.78,homokos ISZAP - agyagos ISZAP,saSi-clSi,#95a63f,2.0,kemény,#1f7a7a
+440,8.8,iszapos HOMOK - homokos ISZAP,siSa-saSi,#b4c270,1.0,laza,#b3bbcc
+441,8.82,iszapos HOMOK - homokos ISZAP,siSa-saSi,#b4c270,1.0,laza,#b3bbcc
+442,8.84,iszapos HOMOK - homokos ISZAP,siSa-saSi,#b4c270,1.0,laza,#b3bbcc
+443,8.86,homokos ISZAP - agyagos ISZAP,saSi-clSi,#95a63f,1.0,laza,#b3bbcc
+444,8.88,homokos ISZAP - agyagos ISZAP,saSi-clSi,#95a63f,2.0,kemény,#1f7a7a
+445,8.9,homokos ISZAP - agyagos ISZAP,saSi-clSi,#95a63f,2.0,kemény,#1f7a7a
+446,8.92,homokos ISZAP - agyagos ISZAP,saSi-clSi,#95a63f,2.0,kemény,#1f7a7a
+447,8.94,homokos ISZAP - agyagos ISZAP,saSi-clSi,#95a63f,2.0,kemény,#1f7a7a
+448,8.96,homokos ISZAP - agyagos ISZAP,saSi-clSi,#95a63f,1.0,laza,#b3bbcc
+449,8.98,iszapos HOMOK - homokos ISZAP,siSa-saSi,#b4c270,1.0,laza,#b3bbcc
+450,9.0,iszapos HOMOK - homokos ISZAP,siSa-saSi,#b4c270,1.0,laza,#b3bbcc
+451,9.02,HOMOK - iszapos HOMOK,Sa-siSa,#e0a552,1.0,laza,#b3bbcc
+452,9.04,HOMOK - iszapos HOMOK,Sa-siSa,#e0a552,1.0,laza,#b3bbcc
+453,9.06,HOMOK - iszapos HOMOK,Sa-siSa,#e0a552,1.0,közepesen tömör,#8593ad
+454,9.08,HOMOK - iszapos HOMOK,Sa-siSa,#e0a552,1.0,közepesen tömör,#8593ad
+455,9.1,HOMOK - iszapos HOMOK,Sa-siSa,#e0a552,1.0,közepesen tömör,#8593ad
+456,9.12,HOMOK - iszapos HOMOK,Sa-siSa,#e0a552,1.0,közepesen tömör,#8593ad
+457,9.14,HOMOK - iszapos HOMOK,Sa-siSa,#e0a552,1.0,közepesen tömör,#8593ad
+458,9.16,HOMOK - iszapos HOMOK,Sa-siSa,#e0a552,1.0,közepesen tömör,#8593ad
+459,9.18,HOMOK - iszapos HOMOK,Sa-siSa,#e0a552,1.0,közepesen tömör,#8593ad
+460,9.2,HOMOK - iszapos HOMOK,Sa-siSa,#e0a552,1.0,közepesen tömör,#8593ad
+461,9.22,HOMOK - iszapos HOMOK,Sa-siSa,#e0a552,1.0,tömör,#52607a
+462,9.24,HOMOK - iszapos HOMOK,Sa-siSa,#e0a552,1.0,tömör,#52607a
+463,9.26,HOMOK - iszapos HOMOK,Sa-siSa,#e0a552,1.0,tömör,#52607a
+464,9.28,HOMOK - iszapos HOMOK,Sa-siSa,#e0a552,1.0,tömör,#52607a
+465,9.3,HOMOK - iszapos HOMOK,Sa-siSa,#e0a552,1.0,tömör,#52607a
+466,9.32,HOMOK - iszapos HOMOK,Sa-siSa,#e0a552,1.0,tömör,#52607a
+467,9.34,HOMOK - iszapos HOMOK,Sa-siSa,#e0a552,1.0,tömör,#52607a
+468,9.36,HOMOK - iszapos HOMOK,Sa-siSa,#e0a552,1.0,tömör,#52607a
+469,9.38,HOMOK - iszapos HOMOK,Sa-siSa,#e0a552,1.0,tömör,#52607a
+470,9.4,HOMOK - iszapos HOMOK,Sa-siSa,#e0a552,1.0,tömör,#52607a
+471,9.42,HOMOK - iszapos HOMOK,Sa-siSa,#e0a552,1.0,tömör,#52607a
+472,9.44,HOMOK - iszapos HOMOK,Sa-siSa,#e0a552,1.0,tömör,#52607a
+473,9.46,HOMOK - iszapos HOMOK,Sa-siSa,#e0a552,1.0,tömör,#52607a
+474,9.48,HOMOK - iszapos HOMOK,Sa-siSa,#e0a552,1.0,tömör,#52607a
+475,9.5,HOMOK - iszapos HOMOK,Sa-siSa,#e0a552,1.0,tömör,#52607a
+476,9.52,HOMOK - iszapos HOMOK,Sa-siSa,#e0a552,1.0,tömör,#52607a
+477,9.54,HOMOK - iszapos HOMOK,Sa-siSa,#e0a552,1.0,tömör,#52607a
+478,9.56,HOMOK - iszapos HOMOK,Sa-siSa,#e0a552,1.0,tömör,#52607a
+479,9.58,HOMOK - iszapos HOMOK,Sa-siSa,#e0a552,1.0,tömör,#52607a
+480,9.6,HOMOK - iszapos HOMOK,Sa-siSa,#e0a552,1.0,tömör,#52607a
+481,9.62,HOMOK - iszapos HOMOK,Sa-siSa,#e0a552,1.0,tömör,#52607a
+482,9.64,HOMOK - iszapos HOMOK,Sa-siSa,#e0a552,1.0,tömör,#52607a
+483,9.66,HOMOK,Sa,#ffbf80,1.0,tömör,#52607a
+484,9.68,HOMOK,Sa,#ffbf80,1.0,tömör,#52607a
+485,9.7,HOMOK,Sa,#ffbf80,1.0,tömör,#52607a
+486,9.72,HOMOK,Sa,#ffbf80,1.0,tömör,#52607a
+487,9.74,HOMOK,Sa,#ffbf80,1.0,tömör,#52607a
+488,9.76,HOMOK,Sa,#ffbf80,1.0,tömör,#52607a
+489,9.78,HOMOK,Sa,#ffbf80,1.0,tömör,#52607a
+490,9.8,HOMOK,Sa,#ffbf80,1.0,tömör,#52607a
+491,9.82,HOMOK,Sa,#ffbf80,1.0,tömör,#52607a
+492,9.84,HOMOK,Sa,#ffbf80,1.0,tömör,#52607a
+493,9.86,HOMOK - iszapos HOMOK,Sa-siSa,#e0a552,1.0,tömör,#52607a
+494,9.88,HOMOK - iszapos HOMOK,Sa-siSa,#e0a552,1.0,közepesen tömör,#8593ad
+495,9.9,HOMOK - iszapos HOMOK,Sa-siSa,#e0a552,1.0,közepesen tömör,#8593ad
+496,9.92,HOMOK - iszapos HOMOK,Sa-siSa,#e0a552,1.0,közepesen tömör,#8593ad
+497,9.94,HOMOK - iszapos HOMOK,Sa-siSa,#e0a552,1.0,közepesen tömör,#8593ad
+498,9.96,iszapos HOMOK - homokos ISZAP,siSa-saSi,#b4c270,1.0,közepesen tömör,#8593ad
+499,9.98,iszapos HOMOK - homokos ISZAP,siSa-saSi,#b4c270,1.0,laza,#b3bbcc
+500,10.0,homokos ISZAP - agyagos ISZAP,saSi-clSi,#95a63f,2.0,kemény,#1f7a7a
+501,10.02,homokos ISZAP - agyagos ISZAP,saSi-clSi,#95a63f,2.0,kemény,#1f7a7a
+502,10.04,agyagos ISZAP - iszapos AGYAG,clSi-siCl,#999999,2.0,kemény,#1f7a7a
+503,10.06,agyagos ISZAP - iszapos AGYAG,clSi-siCl,#999999,2.0,nagyon merev,#158a0f
+504,10.08,agyagos ISZAP - iszapos AGYAG,clSi-siCl,#999999,2.0,nagyon merev,#158a0f
+505,10.1,agyagos ISZAP - iszapos AGYAG,clSi-siCl,#999999,2.0,nagyon merev,#158a0f
+506,10.12,agyagos ISZAP - iszapos AGYAG,clSi-siCl,#999999,2.0,nagyon merev,#158a0f
+507,10.14,agyagos ISZAP - iszapos AGYAG,clSi-siCl,#999999,2.0,nagyon merev,#158a0f
+508,10.16,agyagos ISZAP - iszapos AGYAG,clSi-siCl,#999999,2.0,nagyon merev,#158a0f
+509,10.18,agyagos ISZAP - iszapos AGYAG,clSi-siCl,#999999,2.0,nagyon merev,#158a0f
+510,10.2,agyagos ISZAP - iszapos AGYAG,clSi-siCl,#999999,2.0,nagyon merev,#158a0f
+511,10.22,agyagos ISZAP - iszapos AGYAG,clSi-siCl,#999999,2.0,nagyon merev,#158a0f
+512,10.24,agyagos ISZAP - iszapos AGYAG,clSi-siCl,#999999,2.0,nagyon merev,#158a0f
+513,10.26,agyagos ISZAP - iszapos AGYAG,clSi-siCl,#999999,2.0,nagyon merev,#158a0f
+514,10.28,agyagos ISZAP - iszapos AGYAG,clSi-siCl,#999999,2.0,nagyon merev,#158a0f
+515,10.3,agyagos ISZAP - iszapos AGYAG,clSi-siCl,#999999,2.0,nagyon merev,#158a0f
+516,10.32,agyagos ISZAP - iszapos AGYAG,clSi-siCl,#999999,2.0,nagyon merev,#158a0f
+517,10.34,agyagos ISZAP - iszapos AGYAG,clSi-siCl,#999999,2.0,nagyon merev,#158a0f
+518,10.36,agyagos ISZAP - iszapos AGYAG,clSi-siCl,#999999,2.0,nagyon merev,#158a0f
+519,10.38,agyagos ISZAP - iszapos AGYAG,clSi-siCl,#999999,2.0,nagyon merev,#158a0f
+520,10.4,agyagos ISZAP - iszapos AGYAG,clSi-siCl,#999999,2.0,nagyon merev,#158a0f
+521,10.42,agyagos ISZAP - iszapos AGYAG,clSi-siCl,#999999,2.0,nagyon merev,#158a0f
+522,10.44,agyagos ISZAP - iszapos AGYAG,clSi-siCl,#999999,2.0,nagyon merev,#158a0f
+523,10.46,agyagos ISZAP - iszapos AGYAG,clSi-siCl,#999999,2.0,nagyon merev,#158a0f
+524,10.48,agyagos ISZAP - iszapos AGYAG,clSi-siCl,#999999,2.0,nagyon merev,#158a0f
+525,10.5,agyagos ISZAP - iszapos AGYAG,clSi-siCl,#999999,2.0,nagyon merev,#158a0f
+526,10.52,agyagos ISZAP - iszapos AGYAG,clSi-siCl,#999999,2.0,nagyon merev,#158a0f
+527,10.54,agyagos ISZAP - iszapos AGYAG,clSi-siCl,#999999,2.0,nagyon merev,#158a0f
+528,10.56,agyagos ISZAP - iszapos AGYAG,clSi-siCl,#999999,2.0,kemény,#1f7a7a
+529,10.58,homokos ISZAP - agyagos ISZAP,saSi-clSi,#95a63f,2.0,kemény,#1f7a7a
+530,10.6,homokos ISZAP - agyagos ISZAP,saSi-clSi,#95a63f,2.0,kemény,#1f7a7a
+531,10.62,homokos ISZAP - agyagos ISZAP,saSi-clSi,#95a63f,2.0,kemény,#1f7a7a
+532,10.64,homokos ISZAP - agyagos ISZAP,saSi-clSi,#95a63f,2.0,kemény,#1f7a7a
+533,10.66,homokos ISZAP - agyagos ISZAP,saSi-clSi,#95a63f,2.0,kemény,#1f7a7a
+534,10.68,homokos ISZAP - agyagos ISZAP,saSi-clSi,#95a63f,2.0,kemény,#1f7a7a
+535,10.7,homokos ISZAP - agyagos ISZAP,saSi-clSi,#95a63f,2.0,kemény,#1f7a7a
+536,10.72,agyagos ISZAP - iszapos AGYAG,clSi-siCl,#999999,2.0,kemény,#1f7a7a
+537,10.74,agyagos ISZAP - iszapos AGYAG,clSi-siCl,#999999,2.0,kemény,#1f7a7a
+538,10.76,agyagos ISZAP - iszapos AGYAG,clSi-siCl,#999999,2.0,kemény,#1f7a7a
+539,10.78,agyagos ISZAP - iszapos AGYAG,clSi-siCl,#999999,2.0,nagyon merev,#158a0f
+540,10.8,agyagos ISZAP - iszapos AGYAG,clSi-siCl,#999999,2.0,kemény,#1f7a7a
+541,10.82,agyagos ISZAP - iszapos AGYAG,clSi-siCl,#999999,2.0,kemény,#1f7a7a
+542,10.84,agyagos ISZAP - iszapos AGYAG,clSi-siCl,#999999,2.0,kemény,#1f7a7a
+543,10.86,homokos ISZAP - agyagos ISZAP,saSi-clSi,#95a63f,2.0,kemény,#1f7a7a
+544,10.88,homokos ISZAP - agyagos ISZAP,saSi-clSi,#95a63f,2.0,kemény,#1f7a7a
+545,10.9,homokos ISZAP - agyagos ISZAP,saSi-clSi,#95a63f,1.0,laza,#b3bbcc
+546,10.92,iszapos HOMOK - homokos ISZAP,siSa-saSi,#b4c270,1.0,laza,#b3bbcc
+547,10.94,iszapos HOMOK - homokos ISZAP,siSa-saSi,#b4c270,1.0,laza,#b3bbcc
+548,10.96,iszapos HOMOK - homokos ISZAP,siSa-saSi,#b4c270,1.0,laza,#b3bbcc
+549,10.98,iszapos HOMOK - homokos ISZAP,siSa-saSi,#b4c270,1.0,laza,#b3bbcc
+550,11.0,iszapos HOMOK - homokos ISZAP,siSa-saSi,#b4c270,1.0,laza,#b3bbcc
+551,11.02,homokos ISZAP - agyagos ISZAP,saSi-clSi,#95a63f,1.0,laza,#b3bbcc
+552,11.04,homokos ISZAP - agyagos ISZAP,saSi-clSi,#95a63f,1.0,laza,#b3bbcc
+553,11.06,homokos ISZAP - agyagos ISZAP,saSi-clSi,#95a63f,2.0,nagyon merev,#158a0f
+554,11.08,homokos ISZAP - agyagos ISZAP,saSi-clSi,#95a63f,1.0,laza,#b3bbcc
+555,11.1,homokos ISZAP - agyagos ISZAP,saSi-clSi,#95a63f,1.0,laza,#b3bbcc
+556,11.12,homokos ISZAP - agyagos ISZAP,saSi-clSi,#95a63f,2.0,nagyon merev,#158a0f
+557,11.14,homokos ISZAP - agyagos ISZAP,saSi-clSi,#95a63f,2.0,nagyon merev,#158a0f
+558,11.16,homokos ISZAP - agyagos ISZAP,saSi-clSi,#95a63f,2.0,nagyon merev,#158a0f
+559,11.18,homokos ISZAP - agyagos ISZAP,saSi-clSi,#95a63f,1.0,laza,#b3bbcc
+560,11.2,homokos ISZAP - agyagos ISZAP,saSi-clSi,#95a63f,2.0,nagyon merev,#158a0f
+561,11.22,homokos ISZAP - agyagos ISZAP,saSi-clSi,#95a63f,2.0,nagyon merev,#158a0f
+562,11.24,homokos ISZAP - agyagos ISZAP,saSi-clSi,#95a63f,2.0,nagyon merev,#158a0f
+563,11.26,homokos ISZAP - agyagos ISZAP,saSi-clSi,#95a63f,2.0,nagyon merev,#158a0f
+564,11.28,homokos ISZAP - agyagos ISZAP,saSi-clSi,#95a63f,2.0,nagyon merev,#158a0f
+565,11.3,agyagos ISZAP - iszapos AGYAG,clSi-siCl,#999999,2.0,nagyon merev,#158a0f
+566,11.32,agyagos ISZAP - iszapos AGYAG,clSi-siCl,#999999,2.0,nagyon merev,#158a0f
+567,11.34,homokos ISZAP - agyagos ISZAP,saSi-clSi,#95a63f,2.0,nagyon merev,#158a0f
+568,11.36,homokos ISZAP - agyagos ISZAP,saSi-clSi,#95a63f,1.0,laza,#b3bbcc
+569,11.38,iszapos HOMOK - homokos ISZAP,siSa-saSi,#b4c270,1.0,laza,#b3bbcc
+570,11.4,iszapos HOMOK - homokos ISZAP,siSa-saSi,#b4c270,1.0,laza,#b3bbcc
+571,11.42,iszapos HOMOK - homokos ISZAP,siSa-saSi,#b4c270,1.0,laza,#b3bbcc
+572,11.44,iszapos HOMOK - homokos ISZAP,siSa-saSi,#b4c270,1.0,laza,#b3bbcc
+573,11.46,iszapos HOMOK - homokos ISZAP,siSa-saSi,#b4c270,1.0,laza,#b3bbcc
+574,11.48,iszapos HOMOK - homokos ISZAP,siSa-saSi,#b4c270,1.0,laza,#b3bbcc
+575,11.5,iszapos HOMOK - homokos ISZAP,siSa-saSi,#b4c270,1.0,laza,#b3bbcc
+576,11.52,iszapos HOMOK - homokos ISZAP,siSa-saSi,#b4c270,1.0,laza,#b3bbcc
+577,11.54,iszapos HOMOK - homokos ISZAP,siSa-saSi,#b4c270,1.0,laza,#b3bbcc
+578,11.56,homokos ISZAP - agyagos ISZAP,saSi-clSi,#95a63f,1.0,laza,#b3bbcc
+579,11.58,homokos ISZAP - agyagos ISZAP,saSi-clSi,#95a63f,2.0,nagyon merev,#158a0f
+580,11.6,agyagos ISZAP - iszapos AGYAG,clSi-siCl,#999999,2.0,nagyon merev,#158a0f
+581,11.62,agyagos ISZAP - iszapos AGYAG,clSi-siCl,#999999,2.0,nagyon merev,#158a0f
+582,11.64,agyagos ISZAP - iszapos AGYAG,clSi-siCl,#999999,2.0,nagyon merev,#158a0f
+583,11.66,agyagos ISZAP - iszapos AGYAG,clSi-siCl,#999999,2.0,nagyon merev,#158a0f
+584,11.68,homokos ISZAP - agyagos ISZAP,saSi-clSi,#95a63f,2.0,nagyon merev,#158a0f
+585,11.7,homokos ISZAP - agyagos ISZAP,saSi-clSi,#95a63f,1.0,laza,#b3bbcc
+586,11.72,iszapos HOMOK - homokos ISZAP,siSa-saSi,#b4c270,1.0,laza,#b3bbcc
+587,11.74,iszapos HOMOK - homokos ISZAP,siSa-saSi,#b4c270,1.0,laza,#b3bbcc
+588,11.76,iszapos HOMOK - homokos ISZAP,siSa-saSi,#b4c270,1.0,laza,#b3bbcc
+589,11.78,iszapos HOMOK - homokos ISZAP,siSa-saSi,#b4c270,1.0,laza,#b3bbcc
+590,11.8,homokos ISZAP - agyagos ISZAP,saSi-clSi,#95a63f,1.0,laza,#b3bbcc
+591,11.82,homokos ISZAP - agyagos ISZAP,saSi-clSi,#95a63f,2.0,kemény,#1f7a7a
+592,11.84,agyagos ISZAP - iszapos AGYAG,clSi-siCl,#999999,2.0,kemény,#1f7a7a
+593,11.86,agyagos ISZAP - iszapos AGYAG,clSi-siCl,#999999,2.0,kemény,#1f7a7a
+594,11.88,AGYAG,Cl,#ff9999,2.0,nagyon merev,#158a0f
+595,11.9,"nagyon merev, finom szemcsés HOMOK (OCR)",Sa*,#666b2e,2.0,kemény,#1f7a7a
+596,11.92,iszapos HOMOK - homokos ISZAP,siSa-saSi,#b4c270,2.0,kemény,#1f7a7a
+597,11.94,HOMOK - iszapos HOMOK,Sa-siSa,#e0a552,1.0,tömör,#52607a
+598,11.96,iszapos HOMOK - homokos ISZAP,siSa-saSi,#b4c270,1.0,tömör,#52607a
+599,11.98,iszapos HOMOK - homokos ISZAP,siSa-saSi,#b4c270,2.0,kemény,#1f7a7a
+600,12.0,homokos ISZAP - agyagos ISZAP,saSi-clSi,#95a63f,2.0,kemény,#1f7a7a
+601,12.02,homokos ISZAP - agyagos ISZAP,saSi-clSi,#95a63f,2.0,kemény,#1f7a7a
+602,12.04,agyagos ISZAP - iszapos AGYAG,clSi-siCl,#999999,2.0,kemény,#1f7a7a
+603,12.06,agyagos ISZAP - iszapos AGYAG,clSi-siCl,#999999,2.0,kemény,#1f7a7a
+604,12.08,iszapos AGYAG - AGYAG,siCl-Cl,#666666,2.0,kemény,#1f7a7a
+605,12.1,iszapos AGYAG - AGYAG,siCl-Cl,#666666,2.0,nagyon merev,#158a0f
+606,12.12,agyagos ISZAP - iszapos AGYAG,clSi-siCl,#999999,2.0,nagyon merev,#158a0f
+607,12.14,agyagos ISZAP - iszapos AGYAG,clSi-siCl,#999999,2.0,nagyon merev,#158a0f
+608,12.16,agyagos ISZAP - iszapos AGYAG,clSi-siCl,#999999,2.0,nagyon merev,#158a0f
+609,12.18,agyagos ISZAP - iszapos AGYAG,clSi-siCl,#999999,2.0,nagyon merev,#158a0f
+610,12.2,agyagos ISZAP - iszapos AGYAG,clSi-siCl,#999999,2.0,nagyon merev,#158a0f
+611,12.22,agyagos ISZAP - iszapos AGYAG,clSi-siCl,#999999,2.0,nagyon merev,#158a0f
+612,12.24,agyagos ISZAP - iszapos AGYAG,clSi-siCl,#999999,2.0,nagyon merev,#158a0f
+613,12.26,homokos ISZAP - agyagos ISZAP,saSi-clSi,#95a63f,1.0,nagyon laza,#e0e4eb
+614,12.28,homokos ISZAP - agyagos ISZAP,saSi-clSi,#95a63f,1.0,nagyon laza,#e0e4eb
+615,12.3,homokos ISZAP - agyagos ISZAP,saSi-clSi,#95a63f,1.0,nagyon laza,#e0e4eb
+616,12.32,homokos ISZAP - agyagos ISZAP,saSi-clSi,#95a63f,1.0,nagyon laza,#e0e4eb
+617,12.34,homokos ISZAP - agyagos ISZAP,saSi-clSi,#95a63f,1.0,nagyon laza,#e0e4eb
+618,12.36,homokos ISZAP - agyagos ISZAP,saSi-clSi,#95a63f,1.0,laza,#b3bbcc
+619,12.38,homokos ISZAP - agyagos ISZAP,saSi-clSi,#95a63f,1.0,laza,#b3bbcc
+620,12.4,homokos ISZAP - agyagos ISZAP,saSi-clSi,#95a63f,1.0,nagyon laza,#e0e4eb
+621,12.42,homokos ISZAP - agyagos ISZAP,saSi-clSi,#95a63f,1.0,nagyon laza,#e0e4eb
+622,12.44,agyagos ISZAP - iszapos AGYAG,clSi-siCl,#999999,2.0,merev,#58b814
+623,12.46,agyagos ISZAP - iszapos AGYAG,clSi-siCl,#999999,2.0,merev,#58b814
+624,12.48,homokos ISZAP - agyagos ISZAP,saSi-clSi,#95a63f,2.0,merev,#58b814
+625,12.5,homokos ISZAP - agyagos ISZAP,saSi-clSi,#95a63f,1.0,nagyon laza,#e0e4eb
+626,12.52,homokos ISZAP - agyagos ISZAP,saSi-clSi,#95a63f,1.0,nagyon laza,#e0e4eb
+627,12.54,homokos ISZAP - agyagos ISZAP,saSi-clSi,#95a63f,1.0,nagyon laza,#e0e4eb
+628,12.56,homokos ISZAP - agyagos ISZAP,saSi-clSi,#95a63f,1.0,nagyon laza,#e0e4eb
+629,12.58,homokos ISZAP - agyagos ISZAP,saSi-clSi,#95a63f,2.0,nagyon merev,#158a0f
+630,12.6,homokos ISZAP - agyagos ISZAP,saSi-clSi,#95a63f,2.0,nagyon merev,#158a0f
+631,12.62,agyagos ISZAP - iszapos AGYAG,clSi-siCl,#999999,2.0,nagyon merev,#158a0f
+632,12.64,agyagos ISZAP - iszapos AGYAG,clSi-siCl,#999999,2.0,merev,#58b814
+633,12.66,agyagos ISZAP - iszapos AGYAG,clSi-siCl,#999999,2.0,merev,#58b814
+634,12.68,agyagos ISZAP - iszapos AGYAG,clSi-siCl,#999999,2.0,merev,#58b814
+635,12.7,agyagos ISZAP - iszapos AGYAG,clSi-siCl,#999999,2.0,merev,#58b814
+636,12.72,agyagos ISZAP - iszapos AGYAG,clSi-siCl,#999999,2.0,merev,#58b814
+637,12.74,agyagos ISZAP - iszapos AGYAG,clSi-siCl,#999999,2.0,merev,#58b814
+638,12.76,agyagos ISZAP - iszapos AGYAG,clSi-siCl,#999999,2.0,merev,#58b814
+639,12.78,agyagos ISZAP - iszapos AGYAG,clSi-siCl,#999999,2.0,merev,#58b814
+640,12.8,agyagos ISZAP - iszapos AGYAG,clSi-siCl,#999999,2.0,merev,#58b814
+641,12.82,agyagos ISZAP - iszapos AGYAG,clSi-siCl,#999999,2.0,merev,#58b814
+642,12.84,agyagos ISZAP - iszapos AGYAG,clSi-siCl,#999999,2.0,merev,#58b814
+643,12.86,agyagos ISZAP - iszapos AGYAG,clSi-siCl,#999999,2.0,merev,#58b814
+644,12.88,agyagos ISZAP - iszapos AGYAG,clSi-siCl,#999999,2.0,merev,#58b814
+645,12.9,agyagos ISZAP - iszapos AGYAG,clSi-siCl,#999999,2.0,merev,#58b814
+646,12.92,agyagos ISZAP - iszapos AGYAG,clSi-siCl,#999999,2.0,merev,#58b814
+647,12.94,agyagos ISZAP - iszapos AGYAG,clSi-siCl,#999999,2.0,merev,#58b814
+648,12.96,agyagos ISZAP - iszapos AGYAG,clSi-siCl,#999999,2.0,merev,#58b814
+649,12.98,homokos ISZAP - agyagos ISZAP,saSi-clSi,#95a63f,1.0,nagyon laza,#e0e4eb
+650,13.0,homokos ISZAP - agyagos ISZAP,saSi-clSi,#95a63f,1.0,nagyon laza,#e0e4eb
+651,13.02,homokos ISZAP - agyagos ISZAP,saSi-clSi,#95a63f,1.0,nagyon laza,#e0e4eb
+652,13.04,homokos ISZAP - agyagos ISZAP,saSi-clSi,#95a63f,1.0,nagyon laza,#e0e4eb
+653,13.06,agyagos ISZAP - iszapos AGYAG,clSi-siCl,#999999,2.0,merev,#58b814
+654,13.08,homokos ISZAP - agyagos ISZAP,saSi-clSi,#95a63f,1.0,nagyon laza,#e0e4eb
+655,13.1,homokos ISZAP - agyagos ISZAP,saSi-clSi,#95a63f,1.0,nagyon laza,#e0e4eb
+656,13.12,homokos ISZAP - agyagos ISZAP,saSi-clSi,#95a63f,1.0,nagyon laza,#e0e4eb
+657,13.14,homokos ISZAP - agyagos ISZAP,saSi-clSi,#95a63f,1.0,nagyon laza,#e0e4eb
+658,13.16,homokos ISZAP - agyagos ISZAP,saSi-clSi,#95a63f,1.0,nagyon laza,#e0e4eb
+659,13.18,homokos ISZAP - agyagos ISZAP,saSi-clSi,#95a63f,1.0,nagyon laza,#e0e4eb
+660,13.2,homokos ISZAP - agyagos ISZAP,saSi-clSi,#95a63f,1.0,nagyon laza,#e0e4eb
+661,13.22,homokos ISZAP - agyagos ISZAP,saSi-clSi,#95a63f,1.0,nagyon laza,#e0e4eb
+662,13.24,homokos ISZAP - agyagos ISZAP,saSi-clSi,#95a63f,1.0,nagyon laza,#e0e4eb
+663,13.26,homokos ISZAP - agyagos ISZAP,saSi-clSi,#95a63f,1.0,nagyon laza,#e0e4eb
+664,13.28,homokos ISZAP - agyagos ISZAP,saSi-clSi,#95a63f,1.0,nagyon laza,#e0e4eb
+665,13.3,homokos ISZAP - agyagos ISZAP,saSi-clSi,#95a63f,1.0,nagyon laza,#e0e4eb
+666,13.32,homokos ISZAP - agyagos ISZAP,saSi-clSi,#95a63f,1.0,nagyon laza,#e0e4eb
+667,13.34,homokos ISZAP - agyagos ISZAP,saSi-clSi,#95a63f,1.0,nagyon laza,#e0e4eb
+668,13.36,homokos ISZAP - agyagos ISZAP,saSi-clSi,#95a63f,1.0,laza,#b3bbcc
+669,13.38,homokos ISZAP - agyagos ISZAP,saSi-clSi,#95a63f,1.0,laza,#b3bbcc
+670,13.4,homokos ISZAP - agyagos ISZAP,saSi-clSi,#95a63f,1.0,laza,#b3bbcc
+671,13.42,homokos ISZAP - agyagos ISZAP,saSi-clSi,#95a63f,1.0,laza,#b3bbcc
+672,13.44,homokos ISZAP - agyagos ISZAP,saSi-clSi,#95a63f,1.0,laza,#b3bbcc
+673,13.46,homokos ISZAP - agyagos ISZAP,saSi-clSi,#95a63f,1.0,laza,#b3bbcc
+674,13.48,homokos ISZAP - agyagos ISZAP,saSi-clSi,#95a63f,1.0,laza,#b3bbcc
+675,13.5,homokos ISZAP - agyagos ISZAP,saSi-clSi,#95a63f,1.0,laza,#b3bbcc
+676,13.52,homokos ISZAP - agyagos ISZAP,saSi-clSi,#95a63f,1.0,laza,#b3bbcc
+677,13.54,homokos ISZAP - agyagos ISZAP,saSi-clSi,#95a63f,1.0,laza,#b3bbcc
+678,13.56,homokos ISZAP - agyagos ISZAP,saSi-clSi,#95a63f,1.0,laza,#b3bbcc
+679,13.58,homokos ISZAP - agyagos ISZAP,saSi-clSi,#95a63f,1.0,laza,#b3bbcc
+680,13.6,homokos ISZAP - agyagos ISZAP,saSi-clSi,#95a63f,1.0,laza,#b3bbcc
+681,13.62,homokos ISZAP - agyagos ISZAP,saSi-clSi,#95a63f,1.0,laza,#b3bbcc
+682,13.64,homokos ISZAP - agyagos ISZAP,saSi-clSi,#95a63f,1.0,laza,#b3bbcc
+683,13.66,homokos ISZAP - agyagos ISZAP,saSi-clSi,#95a63f,1.0,laza,#b3bbcc
+684,13.68,homokos ISZAP - agyagos ISZAP,saSi-clSi,#95a63f,1.0,laza,#b3bbcc
+685,13.7,homokos ISZAP - agyagos ISZAP,saSi-clSi,#95a63f,1.0,laza,#b3bbcc
+686,13.72,homokos ISZAP - agyagos ISZAP,saSi-clSi,#95a63f,2.0,nagyon merev,#158a0f
+687,13.74,homokos ISZAP - agyagos ISZAP,saSi-clSi,#95a63f,2.0,nagyon merev,#158a0f
+688,13.76,homokos ISZAP - agyagos ISZAP,saSi-clSi,#95a63f,2.0,nagyon merev,#158a0f
+689,13.78,homokos ISZAP - agyagos ISZAP,saSi-clSi,#95a63f,2.0,nagyon merev,#158a0f
+690,13.8,agyagos ISZAP - iszapos AGYAG,clSi-siCl,#999999,2.0,nagyon merev,#158a0f
+691,13.82,agyagos ISZAP - iszapos AGYAG,clSi-siCl,#999999,2.0,nagyon merev,#158a0f
+692,13.84,agyagos ISZAP - iszapos AGYAG,clSi-siCl,#999999,2.0,nagyon merev,#158a0f
+693,13.86,agyagos ISZAP - iszapos AGYAG,clSi-siCl,#999999,2.0,nagyon merev,#158a0f
+694,13.88,agyagos ISZAP - iszapos AGYAG,clSi-siCl,#999999,2.0,nagyon merev,#158a0f
+695,13.9,agyagos ISZAP - iszapos AGYAG,clSi-siCl,#999999,2.0,nagyon merev,#158a0f
+696,13.92,agyagos ISZAP - iszapos AGYAG,clSi-siCl,#999999,2.0,nagyon merev,#158a0f
+697,13.94,agyagos ISZAP - iszapos AGYAG,clSi-siCl,#999999,2.0,nagyon merev,#158a0f
+698,13.96,agyagos ISZAP - iszapos AGYAG,clSi-siCl,#999999,2.0,nagyon merev,#158a0f
+699,13.98,agyagos ISZAP - iszapos AGYAG,clSi-siCl,#999999,2.0,nagyon merev,#158a0f
+700,14.0,agyagos ISZAP - iszapos AGYAG,clSi-siCl,#999999,2.0,nagyon merev,#158a0f
+701,14.02,agyagos ISZAP - iszapos AGYAG,clSi-siCl,#999999,2.0,nagyon merev,#158a0f
+702,14.04,agyagos ISZAP - iszapos AGYAG,clSi-siCl,#999999,2.0,nagyon merev,#158a0f
+703,14.06,agyagos ISZAP - iszapos AGYAG,clSi-siCl,#999999,2.0,nagyon merev,#158a0f
+704,14.08,agyagos ISZAP - iszapos AGYAG,clSi-siCl,#999999,2.0,nagyon merev,#158a0f
+705,14.1,agyagos ISZAP - iszapos AGYAG,clSi-siCl,#999999,2.0,nagyon merev,#158a0f
+706,14.12,agyagos ISZAP - iszapos AGYAG,clSi-siCl,#999999,2.0,nagyon merev,#158a0f
+707,14.14,agyagos ISZAP - iszapos AGYAG,clSi-siCl,#999999,2.0,nagyon merev,#158a0f
+708,14.16,agyagos ISZAP - iszapos AGYAG,clSi-siCl,#999999,2.0,nagyon merev,#158a0f
+709,14.18,agyagos ISZAP - iszapos AGYAG,clSi-siCl,#999999,2.0,nagyon merev,#158a0f
+710,14.2,agyagos ISZAP - iszapos AGYAG,clSi-siCl,#999999,2.0,nagyon merev,#158a0f
+711,14.22,agyagos ISZAP - iszapos AGYAG,clSi-siCl,#999999,2.0,nagyon merev,#158a0f
+712,14.24,agyagos ISZAP - iszapos AGYAG,clSi-siCl,#999999,2.0,nagyon merev,#158a0f
+713,14.26,agyagos ISZAP - iszapos AGYAG,clSi-siCl,#999999,2.0,nagyon merev,#158a0f
+714,14.28,agyagos ISZAP - iszapos AGYAG,clSi-siCl,#999999,2.0,nagyon merev,#158a0f
+715,14.3,agyagos ISZAP - iszapos AGYAG,clSi-siCl,#999999,2.0,nagyon merev,#158a0f
+716,14.32,agyagos ISZAP - iszapos AGYAG,clSi-siCl,#999999,2.0,nagyon merev,#158a0f
+717,14.34,agyagos ISZAP - iszapos AGYAG,clSi-siCl,#999999,2.0,nagyon merev,#158a0f
+718,14.36,agyagos ISZAP - iszapos AGYAG,clSi-siCl,#999999,2.0,nagyon merev,#158a0f
+719,14.38,agyagos ISZAP - iszapos AGYAG,clSi-siCl,#999999,2.0,nagyon merev,#158a0f
+720,14.4,agyagos ISZAP - iszapos AGYAG,clSi-siCl,#999999,2.0,nagyon merev,#158a0f
+721,14.42,agyagos ISZAP - iszapos AGYAG,clSi-siCl,#999999,2.0,nagyon merev,#158a0f
+722,14.44,agyagos ISZAP - iszapos AGYAG,clSi-siCl,#999999,2.0,nagyon merev,#158a0f
+723,14.46,agyagos ISZAP - iszapos AGYAG,clSi-siCl,#999999,2.0,nagyon merev,#158a0f
+724,14.48,agyagos ISZAP - iszapos AGYAG,clSi-siCl,#999999,2.0,nagyon merev,#158a0f
+725,14.5,agyagos ISZAP - iszapos AGYAG,clSi-siCl,#999999,2.0,nagyon merev,#158a0f
+726,14.52,agyagos ISZAP - iszapos AGYAG,clSi-siCl,#999999,2.0,nagyon merev,#158a0f
+727,14.54,agyagos ISZAP - iszapos AGYAG,clSi-siCl,#999999,2.0,nagyon merev,#158a0f
+728,14.56,agyagos ISZAP - iszapos AGYAG,clSi-siCl,#999999,2.0,nagyon merev,#158a0f
+729,14.58,agyagos ISZAP - iszapos AGYAG,clSi-siCl,#999999,2.0,nagyon merev,#158a0f
+730,14.6,agyagos ISZAP - iszapos AGYAG,clSi-siCl,#999999,2.0,nagyon merev,#158a0f
+731,14.62,agyagos ISZAP - iszapos AGYAG,clSi-siCl,#999999,2.0,nagyon merev,#158a0f
+732,14.64,agyagos ISZAP - iszapos AGYAG,clSi-siCl,#999999,2.0,nagyon merev,#158a0f
+733,14.66,agyagos ISZAP - iszapos AGYAG,clSi-siCl,#999999,2.0,kemény,#1f7a7a
+734,14.68,HOMOK - iszapos HOMOK,Sa-siSa,#e0a552,1.0,tömör,#52607a
+735,14.7,HOMOK - iszapos HOMOK,Sa-siSa,#e0a552,1.0,tömör,#52607a
+736,14.72,iszapos HOMOK - homokos ISZAP,siSa-saSi,#b4c270,1.0,közepesen tömör,#8593ad
+737,14.74,homokos ISZAP - agyagos ISZAP,saSi-clSi,#95a63f,2.0,kemény,#1f7a7a
+738,14.76,agyagos ISZAP - iszapos AGYAG,clSi-siCl,#999999,2.0,kemény,#1f7a7a
+739,14.78,agyagos ISZAP - iszapos AGYAG,clSi-siCl,#999999,2.0,kemény,#1f7a7a
+740,14.8,agyagos ISZAP - iszapos AGYAG,clSi-siCl,#999999,2.0,kemény,#1f7a7a
+741,14.82,agyagos ISZAP - iszapos AGYAG,clSi-siCl,#999999,2.0,nagyon merev,#158a0f
+742,14.84,homokos ISZAP - agyagos ISZAP,saSi-clSi,#95a63f,1.0,laza,#b3bbcc
+743,14.86,homokos ISZAP - agyagos ISZAP,saSi-clSi,#95a63f,2.0,nagyon merev,#158a0f
+744,14.88,agyagos ISZAP - iszapos AGYAG,clSi-siCl,#999999,2.0,kemény,#1f7a7a
+745,14.9,agyagos ISZAP - iszapos AGYAG,clSi-siCl,#999999,2.0,kemény,#1f7a7a
+746,14.92,homokos ISZAP - agyagos ISZAP,saSi-clSi,#95a63f,2.0,kemény,#1f7a7a
+747,14.94,homokos ISZAP - agyagos ISZAP,saSi-clSi,#95a63f,2.0,kemény,#1f7a7a
+748,14.96,homokos ISZAP - agyagos ISZAP,saSi-clSi,#95a63f,2.0,kemény,#1f7a7a
+749,14.98,homokos ISZAP - agyagos ISZAP,saSi-clSi,#95a63f,2.0,kemény,#1f7a7a
+750,15.0,homokos ISZAP - agyagos ISZAP,saSi-clSi,#95a63f,2.0,kemény,#1f7a7a
+751,15.02,homokos ISZAP - agyagos ISZAP,saSi-clSi,#95a63f,1.0,laza,#b3bbcc
+752,15.04,iszapos HOMOK - homokos ISZAP,siSa-saSi,#b4c270,1.0,laza,#b3bbcc
+753,15.06,iszapos HOMOK - homokos ISZAP,siSa-saSi,#b4c270,1.0,laza,#b3bbcc
+754,15.08,iszapos HOMOK - homokos ISZAP,siSa-saSi,#b4c270,1.0,laza,#b3bbcc
+755,15.1,iszapos HOMOK - homokos ISZAP,siSa-saSi,#b4c270,1.0,laza,#b3bbcc
+756,15.12,iszapos HOMOK - homokos ISZAP,siSa-saSi,#b4c270,1.0,laza,#b3bbcc
+757,15.14,homokos ISZAP - agyagos ISZAP,saSi-clSi,#95a63f,1.0,laza,#b3bbcc
+758,15.16,homokos ISZAP - agyagos ISZAP,saSi-clSi,#95a63f,2.0,kemény,#1f7a7a
+759,15.18,homokos ISZAP - agyagos ISZAP,saSi-clSi,#95a63f,2.0,kemény,#1f7a7a
+760,15.2,homokos ISZAP - agyagos ISZAP,saSi-clSi,#95a63f,2.0,kemény,#1f7a7a
+761,15.22,homokos ISZAP - agyagos ISZAP,saSi-clSi,#95a63f,2.0,kemény,#1f7a7a
+762,15.24,agyagos ISZAP - iszapos AGYAG,clSi-siCl,#999999,2.0,kemény,#1f7a7a
+763,15.26,agyagos ISZAP - iszapos AGYAG,clSi-siCl,#999999,2.0,kemény,#1f7a7a
+764,15.28,agyagos ISZAP - iszapos AGYAG,clSi-siCl,#999999,2.0,kemény,#1f7a7a
+765,15.3,"nagyon merev, finom szemcsés HOMOK (OCR)",Sa*,#666b2e,2.0,kemény,#1f7a7a
+766,15.32,"nagyon merev, finom szemcsés HOMOK (OCR)",Sa*,#666b2e,2.0,kemény,#1f7a7a
+767,15.34,"nagyon merev, finom szemcsés HOMOK (OCR)",Sa*,#666b2e,2.0,kemény,#1f7a7a
+768,15.36,"nagyon merev, finom szemcsés HOMOK (OCR)",Sa*,#666b2e,2.0,kemény,#1f7a7a
+769,15.38,"nagyon merev, finom szemcsés HOMOK (OCR)",Sa*,#666b2e,2.0,kemény,#1f7a7a
+770,15.4,"nagyon merev, finom szemcsés HOMOK (OCR)",Sa*,#666b2e,2.0,kemény,#1f7a7a
+771,15.42,"nagyon merev, finom szemcsés HOMOK (OCR)",Sa*,#666b2e,2.0,kemény,#1f7a7a
+772,15.44,"nagyon merev, finom szemcsés HOMOK (OCR)",Sa*,#666b2e,2.0,kemény,#1f7a7a
+773,15.46,"nagyon merev, finom szemcsés HOMOK (OCR)",Sa*,#666b2e,2.0,kemény,#1f7a7a
+774,15.48,"nagyon merev, finom szemcsés HOMOK (OCR)",Sa*,#666b2e,2.0,kemény,#1f7a7a
+775,15.5,agyagos ISZAP - iszapos AGYAG,clSi-siCl,#999999,2.0,kemény,#1f7a7a
+776,15.52,agyagos ISZAP - iszapos AGYAG,clSi-siCl,#999999,2.0,kemény,#1f7a7a
+777,15.54,agyagos ISZAP - iszapos AGYAG,clSi-siCl,#999999,2.0,kemény,#1f7a7a
+778,15.56,agyagos ISZAP - iszapos AGYAG,clSi-siCl,#999999,2.0,kemény,#1f7a7a
+779,15.58,agyagos ISZAP - iszapos AGYAG,clSi-siCl,#999999,2.0,kemény,#1f7a7a
+780,15.6,agyagos ISZAP - iszapos AGYAG,clSi-siCl,#999999,2.0,kemény,#1f7a7a
+781,15.62,homokos ISZAP - agyagos ISZAP,saSi-clSi,#95a63f,2.0,kemény,#1f7a7a
+782,15.64,agyagos ISZAP - iszapos AGYAG,clSi-siCl,#999999,2.0,kemény,#1f7a7a
+783,15.66,agyagos ISZAP - iszapos AGYAG,clSi-siCl,#999999,2.0,kemény,#1f7a7a
+784,15.68,homokos ISZAP - agyagos ISZAP,saSi-clSi,#95a63f,2.0,kemény,#1f7a7a
+785,15.7,homokos ISZAP - agyagos ISZAP,saSi-clSi,#95a63f,2.0,kemény,#1f7a7a
+786,15.72,homokos ISZAP - agyagos ISZAP,saSi-clSi,#95a63f,2.0,nagyon merev,#158a0f
+787,15.74,homokos ISZAP - agyagos ISZAP,saSi-clSi,#95a63f,2.0,nagyon merev,#158a0f
+788,15.76,agyagos ISZAP - iszapos AGYAG,clSi-siCl,#999999,2.0,kemény,#1f7a7a
+789,15.78,iszapos AGYAG - AGYAG,siCl-Cl,#666666,2.0,kemény,#1f7a7a
+790,15.8,"nagyon merev, finom szemcsés HOMOK (OCR)",Sa*,#666b2e,2.0,kemény,#1f7a7a
+791,15.82,"nagyon merev, finom szemcsés HOMOK (OCR)",Sa*,#666b2e,2.0,kemény,#1f7a7a
+792,15.84,homokos ISZAP - agyagos ISZAP,saSi-clSi,#95a63f,2.0,kemény,#1f7a7a
+793,15.86,homokos ISZAP - agyagos ISZAP,saSi-clSi,#95a63f,2.0,kemény,#1f7a7a
+794,15.88,agyagos ISZAP - iszapos AGYAG,clSi-siCl,#999999,2.0,kemény,#1f7a7a
+795,15.9,agyagos ISZAP - iszapos AGYAG,clSi-siCl,#999999,2.0,kemény,#1f7a7a
+796,15.92,agyagos ISZAP - iszapos AGYAG,clSi-siCl,#999999,2.0,kemény,#1f7a7a
+797,15.94,homokos ISZAP - agyagos ISZAP,saSi-clSi,#95a63f,2.0,kemény,#1f7a7a
+798,15.96,homokos ISZAP - agyagos ISZAP,saSi-clSi,#95a63f,2.0,kemény,#1f7a7a
+799,15.98,homokos ISZAP - agyagos ISZAP,saSi-clSi,#95a63f,2.0,nagyon merev,#158a0f
+800,16.0,homokos ISZAP - agyagos ISZAP,saSi-clSi,#95a63f,1.0,laza,#b3bbcc
+801,16.02,homokos ISZAP - agyagos ISZAP,saSi-clSi,#95a63f,1.0,laza,#b3bbcc
+802,16.04,homokos ISZAP - agyagos ISZAP,saSi-clSi,#95a63f,1.0,laza,#b3bbcc
+803,16.06,homokos ISZAP - agyagos ISZAP,saSi-clSi,#95a63f,1.0,laza,#b3bbcc
+804,16.08,homokos ISZAP - agyagos ISZAP,saSi-clSi,#95a63f,2.0,nagyon merev,#158a0f
+805,16.1,agyagos ISZAP - iszapos AGYAG,clSi-siCl,#999999,2.0,nagyon merev,#158a0f
+806,16.12,agyagos ISZAP - iszapos AGYAG,clSi-siCl,#999999,2.0,kemény,#1f7a7a
+807,16.14,agyagos ISZAP - iszapos AGYAG,clSi-siCl,#999999,2.0,kemény,#1f7a7a
+808,16.16,homokos ISZAP - agyagos ISZAP,saSi-clSi,#95a63f,2.0,kemény,#1f7a7a
+809,16.18,iszapos HOMOK - homokos ISZAP,siSa-saSi,#b4c270,2.0,kemény,#1f7a7a
+810,16.2,HOMOK,Sa,#ffbf80,1.0,nagyon tömör,#141d52
+811,16.22,HOMOK,Sa,#ffbf80,1.0,nagyon tömör,#141d52
+812,16.24,HOMOK,Sa,#ffbf80,1.0,nagyon tömör,#141d52
+813,16.26,HOMOK,Sa,#ffbf80,1.0,nagyon tömör,#141d52
+814,16.28,HOMOK - iszapos HOMOK,Sa-siSa,#e0a552,1.0,nagyon tömör,#141d52
+815,16.3,HOMOK - iszapos HOMOK,Sa-siSa,#e0a552,1.0,nagyon tömör,#141d52
+816,16.32,iszapos HOMOK - homokos ISZAP,siSa-saSi,#b4c270,2.0,kemény,#1f7a7a
+817,16.34,iszapos HOMOK - homokos ISZAP,siSa-saSi,#b4c270,2.0,kemény,#1f7a7a
+818,16.36,iszapos HOMOK - homokos ISZAP,siSa-saSi,#b4c270,2.0,kemény,#1f7a7a
+819,16.38,iszapos HOMOK - homokos ISZAP,siSa-saSi,#b4c270,2.0,kemény,#1f7a7a
+820,16.4,iszapos HOMOK - homokos ISZAP,siSa-saSi,#b4c270,2.0,kemény,#1f7a7a
+821,16.42,iszapos HOMOK - homokos ISZAP,siSa-saSi,#b4c270,2.0,kemény,#1f7a7a
+822,16.44,iszapos HOMOK - homokos ISZAP,siSa-saSi,#b4c270,2.0,kemény,#1f7a7a
+823,16.46,iszapos HOMOK - homokos ISZAP,siSa-saSi,#b4c270,2.0,kemény,#1f7a7a
+824,16.48,iszapos HOMOK - homokos ISZAP,siSa-saSi,#b4c270,2.0,kemény,#1f7a7a
+825,16.5,nagyon merev HOMOK - agyagos HOMOK (OCR),Sa-clSa*,#ffa64d,2.0,kemény,#1f7a7a
+826,16.52,nagyon merev HOMOK - agyagos HOMOK (OCR),Sa-clSa*,#ffa64d,2.0,kemény,#1f7a7a
+827,16.54,nagyon merev HOMOK - agyagos HOMOK (OCR),Sa-clSa*,#ffa64d,2.0,kemény,#1f7a7a
+828,16.56,nagyon merev HOMOK - agyagos HOMOK (OCR),Sa-clSa*,#ffa64d,2.0,kemény,#1f7a7a
+829,16.58,nagyon merev HOMOK - agyagos HOMOK (OCR),Sa-clSa*,#ffa64d,2.0,kemény,#1f7a7a
+830,16.6,nagyon merev HOMOK - agyagos HOMOK (OCR),Sa-clSa*,#ffa64d,2.0,kemény,#1f7a7a
+831,16.62,nagyon merev HOMOK - agyagos HOMOK (OCR),Sa-clSa*,#ffa64d,2.0,kemény,#1f7a7a
+832,16.64,nagyon merev HOMOK - agyagos HOMOK (OCR),Sa-clSa*,#ffa64d,2.0,kemény,#1f7a7a
+833,16.66,nagyon merev HOMOK - agyagos HOMOK (OCR),Sa-clSa*,#ffa64d,2.0,kemény,#1f7a7a
+834,16.68,nagyon merev HOMOK - agyagos HOMOK (OCR),Sa-clSa*,#ffa64d,2.0,kemény,#1f7a7a
+835,16.7,nagyon merev HOMOK - agyagos HOMOK (OCR),Sa-clSa*,#ffa64d,2.0,kemény,#1f7a7a
+836,16.72,nagyon merev HOMOK - agyagos HOMOK (OCR),Sa-clSa*,#ffa64d,2.0,kemény,#1f7a7a
+837,16.74,nagyon merev HOMOK - agyagos HOMOK (OCR),Sa-clSa*,#ffa64d,2.0,kemény,#1f7a7a
+838,16.76,nagyon merev HOMOK - agyagos HOMOK (OCR),Sa-clSa*,#ffa64d,2.0,kemény,#1f7a7a
+839,16.78,nagyon merev HOMOK - agyagos HOMOK (OCR),Sa-clSa*,#ffa64d,2.0,kemény,#1f7a7a
+840,16.8,nagyon merev HOMOK - agyagos HOMOK (OCR),Sa-clSa*,#ffa64d,2.0,kemény,#1f7a7a
+841,16.82,iszapos HOMOK - homokos ISZAP,siSa-saSi,#b4c270,2.0,kemény,#1f7a7a
+842,16.84,iszapos HOMOK - homokos ISZAP,siSa-saSi,#b4c270,2.0,kemény,#1f7a7a
+843,16.86,iszapos HOMOK - homokos ISZAP,siSa-saSi,#b4c270,2.0,kemény,#1f7a7a
+844,16.88,iszapos HOMOK - homokos ISZAP,siSa-saSi,#b4c270,2.0,kemény,#1f7a7a
+845,16.9,iszapos HOMOK - homokos ISZAP,siSa-saSi,#b4c270,2.0,kemény,#1f7a7a
+846,16.92,iszapos HOMOK - homokos ISZAP,siSa-saSi,#b4c270,2.0,kemény,#1f7a7a
+847,16.94,iszapos HOMOK - homokos ISZAP,siSa-saSi,#b4c270,1.0,tömör,#52607a
+848,16.96,iszapos HOMOK - homokos ISZAP,siSa-saSi,#b4c270,1.0,tömör,#52607a
+849,16.98,iszapos HOMOK - homokos ISZAP,siSa-saSi,#b4c270,1.0,tömör,#52607a
+850,17.0,iszapos HOMOK - homokos ISZAP,siSa-saSi,#b4c270,1.0,tömör,#52607a
+851,17.02,iszapos HOMOK - homokos ISZAP,siSa-saSi,#b4c270,1.0,tömör,#52607a
+852,17.04,iszapos HOMOK - homokos ISZAP,siSa-saSi,#b4c270,1.0,tömör,#52607a
+853,17.06,iszapos HOMOK - homokos ISZAP,siSa-saSi,#b4c270,2.0,kemény,#1f7a7a
+854,17.08,iszapos HOMOK - homokos ISZAP,siSa-saSi,#b4c270,2.0,kemény,#1f7a7a
+855,17.1,homokos ISZAP - agyagos ISZAP,saSi-clSi,#95a63f,2.0,kemény,#1f7a7a
+856,17.12,homokos ISZAP - agyagos ISZAP,saSi-clSi,#95a63f,2.0,kemény,#1f7a7a
+857,17.14,homokos ISZAP - agyagos ISZAP,saSi-clSi,#95a63f,2.0,kemény,#1f7a7a
+858,17.16,homokos ISZAP - agyagos ISZAP,saSi-clSi,#95a63f,2.0,kemény,#1f7a7a
+859,17.18,homokos ISZAP - agyagos ISZAP,saSi-clSi,#95a63f,2.0,kemény,#1f7a7a
+860,17.2,homokos ISZAP - agyagos ISZAP,saSi-clSi,#95a63f,2.0,kemény,#1f7a7a
+861,17.22,homokos ISZAP - agyagos ISZAP,saSi-clSi,#95a63f,2.0,kemény,#1f7a7a
+862,17.24,iszapos HOMOK - homokos ISZAP,siSa-saSi,#b4c270,2.0,kemény,#1f7a7a
+863,17.26,iszapos HOMOK - homokos ISZAP,siSa-saSi,#b4c270,1.0,közepesen tömör,#8593ad
+864,17.28,iszapos HOMOK - homokos ISZAP,siSa-saSi,#b4c270,1.0,tömör,#52607a
+865,17.3,HOMOK - iszapos HOMOK,Sa-siSa,#e0a552,1.0,tömör,#52607a
+866,17.32,HOMOK - iszapos HOMOK,Sa-siSa,#e0a552,1.0,tömör,#52607a
+867,17.34,HOMOK - iszapos HOMOK,Sa-siSa,#e0a552,1.0,tömör,#52607a
+868,17.36,HOMOK - iszapos HOMOK,Sa-siSa,#e0a552,1.0,tömör,#52607a
+869,17.38,HOMOK - iszapos HOMOK,Sa-siSa,#e0a552,1.0,tömör,#52607a
+870,17.4,HOMOK - iszapos HOMOK,Sa-siSa,#e0a552,1.0,nagyon tömör,#141d52
+871,17.42,HOMOK - iszapos HOMOK,Sa-siSa,#e0a552,1.0,nagyon tömör,#141d52
+872,17.44,HOMOK - iszapos HOMOK,Sa-siSa,#e0a552,1.0,nagyon tömör,#141d52
+873,17.46,HOMOK - iszapos HOMOK,Sa-siSa,#e0a552,1.0,nagyon tömör,#141d52
+874,17.48,HOMOK - iszapos HOMOK,Sa-siSa,#e0a552,1.0,nagyon tömör,#141d52
+875,17.5,HOMOK - iszapos HOMOK,Sa-siSa,#e0a552,1.0,nagyon tömör,#141d52
+876,17.52,HOMOK - iszapos HOMOK,Sa-siSa,#e0a552,1.0,nagyon tömör,#141d52
+877,17.54,HOMOK - iszapos HOMOK,Sa-siSa,#e0a552,1.0,tömör,#52607a
+878,17.56,iszapos HOMOK - homokos ISZAP,siSa-saSi,#b4c270,1.0,tömör,#52607a
+879,17.58,iszapos HOMOK - homokos ISZAP,siSa-saSi,#b4c270,1.0,tömör,#52607a
+880,17.6,iszapos HOMOK - homokos ISZAP,siSa-saSi,#b4c270,1.0,tömör,#52607a
+881,17.62,iszapos HOMOK - homokos ISZAP,siSa-saSi,#b4c270,1.0,tömör,#52607a
+882,17.64,iszapos HOMOK - homokos ISZAP,siSa-saSi,#b4c270,1.0,tömör,#52607a
+883,17.66,iszapos HOMOK - homokos ISZAP,siSa-saSi,#b4c270,1.0,tömör,#52607a
+884,17.68,iszapos HOMOK - homokos ISZAP,siSa-saSi,#b4c270,1.0,tömör,#52607a
+885,17.7,iszapos HOMOK - homokos ISZAP,siSa-saSi,#b4c270,1.0,tömör,#52607a
+886,17.72,iszapos HOMOK - homokos ISZAP,siSa-saSi,#b4c270,1.0,tömör,#52607a
+887,17.74,iszapos HOMOK - homokos ISZAP,siSa-saSi,#b4c270,1.0,tömör,#52607a
+888,17.76,iszapos HOMOK - homokos ISZAP,siSa-saSi,#b4c270,1.0,tömör,#52607a
+889,17.78,iszapos HOMOK - homokos ISZAP,siSa-saSi,#b4c270,1.0,tömör,#52607a
+890,17.8,iszapos HOMOK - homokos ISZAP,siSa-saSi,#b4c270,1.0,tömör,#52607a
+891,17.82,iszapos HOMOK - homokos ISZAP,siSa-saSi,#b4c270,1.0,tömör,#52607a
+892,17.84,HOMOK - iszapos HOMOK,Sa-siSa,#e0a552,1.0,tömör,#52607a
+893,17.86,HOMOK - iszapos HOMOK,Sa-siSa,#e0a552,1.0,tömör,#52607a
+894,17.88,HOMOK - iszapos HOMOK,Sa-siSa,#e0a552,1.0,tömör,#52607a
+895,17.9,HOMOK - iszapos HOMOK,Sa-siSa,#e0a552,1.0,tömör,#52607a
+896,17.92,HOMOK - iszapos HOMOK,Sa-siSa,#e0a552,1.0,tömör,#52607a
+897,17.94,HOMOK - iszapos HOMOK,Sa-siSa,#e0a552,1.0,tömör,#52607a
+898,17.96,HOMOK - iszapos HOMOK,Sa-siSa,#e0a552,1.0,tömör,#52607a
+899,17.98,HOMOK - iszapos HOMOK,Sa-siSa,#e0a552,1.0,tömör,#52607a
+900,18.0,HOMOK - iszapos HOMOK,Sa-siSa,#e0a552,1.0,tömör,#52607a
+901,18.02,HOMOK - iszapos HOMOK,Sa-siSa,#e0a552,1.0,tömör,#52607a
+902,18.04,HOMOK - iszapos HOMOK,Sa-siSa,#e0a552,1.0,tömör,#52607a
+903,18.06,HOMOK - iszapos HOMOK,Sa-siSa,#e0a552,1.0,tömör,#52607a
+904,18.08,HOMOK - iszapos HOMOK,Sa-siSa,#e0a552,1.0,tömör,#52607a
+905,18.1,HOMOK - iszapos HOMOK,Sa-siSa,#e0a552,1.0,tömör,#52607a
+906,18.12,HOMOK - iszapos HOMOK,Sa-siSa,#e0a552,1.0,tömör,#52607a
+907,18.14,HOMOK - iszapos HOMOK,Sa-siSa,#e0a552,1.0,tömör,#52607a
+908,18.16,HOMOK - iszapos HOMOK,Sa-siSa,#e0a552,1.0,tömör,#52607a
+909,18.18,HOMOK - iszapos HOMOK,Sa-siSa,#e0a552,1.0,tömör,#52607a
+910,18.2,HOMOK - iszapos HOMOK,Sa-siSa,#e0a552,1.0,tömör,#52607a
+911,18.22,HOMOK - iszapos HOMOK,Sa-siSa,#e0a552,1.0,tömör,#52607a
+912,18.24,HOMOK - iszapos HOMOK,Sa-siSa,#e0a552,1.0,tömör,#52607a
+913,18.26,HOMOK - iszapos HOMOK,Sa-siSa,#e0a552,1.0,tömör,#52607a
+914,18.28,HOMOK - iszapos HOMOK,Sa-siSa,#e0a552,1.0,tömör,#52607a
+915,18.3,HOMOK - iszapos HOMOK,Sa-siSa,#e0a552,1.0,tömör,#52607a
+916,18.32,HOMOK - iszapos HOMOK,Sa-siSa,#e0a552,1.0,tömör,#52607a
+917,18.34,HOMOK - iszapos HOMOK,Sa-siSa,#e0a552,1.0,nagyon tömör,#141d52
+918,18.36,HOMOK - iszapos HOMOK,Sa-siSa,#e0a552,1.0,nagyon tömör,#141d52
+919,18.38,HOMOK - iszapos HOMOK,Sa-siSa,#e0a552,1.0,nagyon tömör,#141d52
+920,18.4,HOMOK - iszapos HOMOK,Sa-siSa,#e0a552,1.0,nagyon tömör,#141d52
+921,18.42,HOMOK - iszapos HOMOK,Sa-siSa,#e0a552,1.0,nagyon tömör,#141d52
+922,18.44,HOMOK - iszapos HOMOK,Sa-siSa,#e0a552,1.0,nagyon tömör,#141d52
+923,18.46,HOMOK - iszapos HOMOK,Sa-siSa,#e0a552,1.0,nagyon tömör,#141d52
+924,18.48,HOMOK - iszapos HOMOK,Sa-siSa,#e0a552,1.0,tömör,#52607a
+925,18.5,iszapos HOMOK - homokos ISZAP,siSa-saSi,#b4c270,1.0,tömör,#52607a
+926,18.52,iszapos HOMOK - homokos ISZAP,siSa-saSi,#b4c270,1.0,tömör,#52607a
+927,18.54,iszapos HOMOK - homokos ISZAP,siSa-saSi,#b4c270,1.0,tömör,#52607a
+928,18.56,iszapos HOMOK - homokos ISZAP,siSa-saSi,#b4c270,1.0,tömör,#52607a
+929,18.58,iszapos HOMOK - homokos ISZAP,siSa-saSi,#b4c270,1.0,tömör,#52607a
+930,18.6,iszapos HOMOK - homokos ISZAP,siSa-saSi,#b4c270,1.0,tömör,#52607a
+931,18.62,iszapos HOMOK - homokos ISZAP,siSa-saSi,#b4c270,1.0,tömör,#52607a
+932,18.64,HOMOK - iszapos HOMOK,Sa-siSa,#e0a552,1.0,tömör,#52607a
+933,18.66,HOMOK - iszapos HOMOK,Sa-siSa,#e0a552,1.0,tömör,#52607a
+934,18.68,HOMOK - iszapos HOMOK,Sa-siSa,#e0a552,1.0,tömör,#52607a
+935,18.7,HOMOK - iszapos HOMOK,Sa-siSa,#e0a552,1.0,tömör,#52607a
+936,18.72,iszapos HOMOK - homokos ISZAP,siSa-saSi,#b4c270,1.0,tömör,#52607a
+937,18.74,iszapos HOMOK - homokos ISZAP,siSa-saSi,#b4c270,1.0,nagyon tömör,#141d52
+938,18.76,iszapos HOMOK - homokos ISZAP,siSa-saSi,#b4c270,1.0,nagyon tömör,#141d52
+939,18.78,HOMOK - iszapos HOMOK,Sa-siSa,#e0a552,1.0,nagyon tömör,#141d52
+940,18.8,HOMOK - iszapos HOMOK,Sa-siSa,#e0a552,1.0,nagyon tömör,#141d52
+941,18.82,iszapos HOMOK - homokos ISZAP,siSa-saSi,#b4c270,2.0,kemény,#1f7a7a
+942,18.84,iszapos HOMOK - homokos ISZAP,siSa-saSi,#b4c270,2.0,kemény,#1f7a7a
+943,18.86,iszapos HOMOK - homokos ISZAP,siSa-saSi,#b4c270,2.0,kemény,#1f7a7a
+944,18.88,nagyon merev HOMOK - agyagos HOMOK (OCR),Sa-clSa*,#ffa64d,2.0,kemény,#1f7a7a
+945,18.9,nagyon merev HOMOK - agyagos HOMOK (OCR),Sa-clSa*,#ffa64d,2.0,kemény,#1f7a7a
+946,18.92,nagyon merev HOMOK - agyagos HOMOK (OCR),Sa-clSa*,#ffa64d,2.0,kemény,#1f7a7a
+947,18.94,nagyon merev HOMOK - agyagos HOMOK (OCR),Sa-clSa*,#ffa64d,2.0,kemény,#1f7a7a
+948,18.96,nagyon merev HOMOK - agyagos HOMOK (OCR),Sa-clSa*,#ffa64d,2.0,kemény,#1f7a7a
+949,18.98,iszapos HOMOK - homokos ISZAP,siSa-saSi,#b4c270,2.0,kemény,#1f7a7a
+950,19.0,iszapos HOMOK - homokos ISZAP,siSa-saSi,#b4c270,2.0,kemény,#1f7a7a
+951,19.02,iszapos HOMOK - homokos ISZAP,siSa-saSi,#b4c270,2.0,kemény,#1f7a7a
+952,19.04,iszapos HOMOK - homokos ISZAP,siSa-saSi,#b4c270,2.0,kemény,#1f7a7a
+953,19.06,iszapos HOMOK - homokos ISZAP,siSa-saSi,#b4c270,1.0,nagyon tömör,#141d52
+954,19.08,iszapos HOMOK - homokos ISZAP,siSa-saSi,#b4c270,1.0,nagyon tömör,#141d52
+955,19.1,HOMOK - iszapos HOMOK,Sa-siSa,#e0a552,1.0,nagyon tömör,#141d52
+956,19.12,HOMOK - iszapos HOMOK,Sa-siSa,#e0a552,1.0,nagyon tömör,#141d52
+957,19.14,HOMOK - iszapos HOMOK,Sa-siSa,#e0a552,1.0,nagyon tömör,#141d52
+958,19.16,HOMOK - iszapos HOMOK,Sa-siSa,#e0a552,1.0,tömör,#52607a
+959,19.18,HOMOK - iszapos HOMOK,Sa-siSa,#e0a552,1.0,tömör,#52607a
+960,19.2,HOMOK - iszapos HOMOK,Sa-siSa,#e0a552,1.0,nagyon tömör,#141d52
+961,19.22,HOMOK - iszapos HOMOK,Sa-siSa,#e0a552,1.0,nagyon tömör,#141d52
+962,19.24,HOMOK - iszapos HOMOK,Sa-siSa,#e0a552,1.0,nagyon tömör,#141d52
+963,19.26,HOMOK - iszapos HOMOK,Sa-siSa,#e0a552,1.0,nagyon tömör,#141d52
+964,19.28,HOMOK - iszapos HOMOK,Sa-siSa,#e0a552,1.0,nagyon tömör,#141d52
+965,19.3,HOMOK - iszapos HOMOK,Sa-siSa,#e0a552,1.0,nagyon tömör,#141d52
+966,19.32,HOMOK - iszapos HOMOK,Sa-siSa,#e0a552,1.0,nagyon tömör,#141d52
+967,19.34,HOMOK - iszapos HOMOK,Sa-siSa,#e0a552,1.0,nagyon tömör,#141d52
+968,19.36,iszapos HOMOK - homokos ISZAP,siSa-saSi,#b4c270,2.0,kemény,#1f7a7a
+969,19.38,iszapos HOMOK - homokos ISZAP,siSa-saSi,#b4c270,2.0,kemény,#1f7a7a
+970,19.4,iszapos HOMOK - homokos ISZAP,siSa-saSi,#b4c270,2.0,kemény,#1f7a7a
+971,19.42,iszapos HOMOK - homokos ISZAP,siSa-saSi,#b4c270,2.0,kemény,#1f7a7a
+972,19.44,nagyon merev HOMOK - agyagos HOMOK (OCR),Sa-clSa*,#ffa64d,2.0,kemény,#1f7a7a
+973,19.46,nagyon merev HOMOK - agyagos HOMOK (OCR),Sa-clSa*,#ffa64d,2.0,kemény,#1f7a7a
+974,19.48,nagyon merev HOMOK - agyagos HOMOK (OCR),Sa-clSa*,#ffa64d,2.0,kemény,#1f7a7a
+975,19.5,nagyon merev HOMOK - agyagos HOMOK (OCR),Sa-clSa*,#ffa64d,2.0,kemény,#1f7a7a
+976,19.52,nagyon merev HOMOK - agyagos HOMOK (OCR),Sa-clSa*,#ffa64d,2.0,kemény,#1f7a7a
+977,19.54,nagyon merev HOMOK - agyagos HOMOK (OCR),Sa-clSa*,#ffa64d,2.0,kemény,#1f7a7a
+978,19.56,nagyon merev HOMOK - agyagos HOMOK (OCR),Sa-clSa*,#ffa64d,2.0,kemény,#1f7a7a
+979,19.58,nagyon merev HOMOK - agyagos HOMOK (OCR),Sa-clSa*,#ffa64d,2.0,kemény,#1f7a7a
+980,19.6,nagyon merev HOMOK - agyagos HOMOK (OCR),Sa-clSa*,#ffa64d,2.0,kemény,#1f7a7a
+981,19.62,iszapos HOMOK - homokos ISZAP,siSa-saSi,#b4c270,2.0,kemény,#1f7a7a
+982,19.64,iszapos HOMOK - homokos ISZAP,siSa-saSi,#b4c270,1.0,nagyon tömör,#141d52
+983,19.66,nagyon merev HOMOK - agyagos HOMOK (OCR),Sa-clSa*,#ffa64d,2.0,kemény,#1f7a7a
+984,19.68,iszapos HOMOK - homokos ISZAP,siSa-saSi,#b4c270,2.0,kemény,#1f7a7a
+985,19.7,iszapos HOMOK - homokos ISZAP,siSa-saSi,#b4c270,2.0,kemény,#1f7a7a
+986,19.72,iszapos HOMOK - homokos ISZAP,siSa-saSi,#b4c270,2.0,kemény,#1f7a7a
+987,19.74,iszapos HOMOK - homokos ISZAP,siSa-saSi,#b4c270,2.0,kemény,#1f7a7a
+988,19.76,iszapos HOMOK - homokos ISZAP,siSa-saSi,#b4c270,2.0,kemény,#1f7a7a
+989,19.78,iszapos HOMOK - homokos ISZAP,siSa-saSi,#b4c270,2.0,kemény,#1f7a7a
+990,19.8,iszapos HOMOK - homokos ISZAP,siSa-saSi,#b4c270,2.0,kemény,#1f7a7a
+991,19.82,iszapos HOMOK - homokos ISZAP,siSa-saSi,#b4c270,2.0,kemény,#1f7a7a
+992,19.84,iszapos HOMOK - homokos ISZAP,siSa-saSi,#b4c270,2.0,kemény,#1f7a7a
+993,19.86,iszapos HOMOK - homokos ISZAP,siSa-saSi,#b4c270,1.0,tömör,#52607a
+994,19.88,HOMOK - iszapos HOMOK,Sa-siSa,#e0a552,1.0,nagyon tömör,#141d52
+995,19.9,HOMOK - iszapos HOMOK,Sa-siSa,#e0a552,1.0,nagyon tömör,#141d52
+996,19.92,HOMOK - iszapos HOMOK,Sa-siSa,#e0a552,1.0,nagyon tömör,#141d52
+997,19.94,HOMOK - iszapos HOMOK,Sa-siSa,#e0a552,1.0,nagyon tömör,#141d52
+998,19.96,HOMOK - iszapos HOMOK,Sa-siSa,#e0a552,1.0,tömör,#52607a
+999,19.98,iszapos HOMOK - homokos ISZAP,siSa-saSi,#b4c270,1.0,tömör,#52607a
+1000,20.0,iszapos HOMOK - homokos ISZAP,siSa-saSi,#b4c270,1.0,tömör,#52607a
+1001,20.02,iszapos HOMOK - homokos ISZAP,siSa-saSi,#b4c270,1.0,tömör,#52607a
+1002,20.04,iszapos HOMOK - homokos ISZAP,siSa-saSi,#b4c270,2.0,kemény,#1f7a7a
+1003,20.06,iszapos HOMOK - homokos ISZAP,siSa-saSi,#b4c270,2.0,kemény,#1f7a7a
+1004,20.08,iszapos HOMOK - homokos ISZAP,siSa-saSi,#b4c270,2.0,kemény,#1f7a7a
+1005,20.1,,,black,,,black
+1006,20.12,,,black,,,black
+1007,20.14,,,black,,,black
+1008,20.16,,,black,,,black
+1009,20.18,,,black,,,black
