@@ -2,6 +2,7 @@ from flask import Flask, render_template, request, session
 import datetime
 from flask_session import Session
 
+# set FLASK_APP=application.py
 app = Flask(__name__)
 
 @app.route("/")

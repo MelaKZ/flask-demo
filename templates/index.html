@@ -4,14 +4,16 @@
     First Page
   {% endblock %}
   {% block body %}
-    <form action="{{ url_for('hello') }}" method="post">
-      <input type="text" name="name" value="Enter Your Name Here">
-      <button>Submit</button>
-    </form>
+  <div class="container bg-dark text-light">
+      <form class="p-2 row g-3" action="{{ url_for('hello') }}" method="post">
+        <input class="col-9" type="text" name="name" placeholder="Enter Your Name Here">
+        <button class="btn btn-primary col-3">Submit</button>
+      </form>
 
-    <p>
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-    </p>
+      <p>
+        Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+      </p>
+  </div>
 
     <a href="{{ url_for('more') }}">See more ...</a>
     <a href="{{ url_for('notes') }}">Take Notes</a>

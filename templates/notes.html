@@ -4,10 +4,12 @@
     Notes Page
   {% endblock %}
   {% block body %}
-    <form class="" action="{{ url_for('notes') }}" method="post">
-      <input type="text" name="note" placeholder="Enter Note Here">
-      <button>Add note</button>
+  <div class="container bg-dark text-light">
+    <form class="p-2 row g-3" action="{{ url_for('notes') }}" method="post">
+      <input class="col-9" type="text" name="note" placeholder="Enter Note Here">
+      <button class="btn btn-primary col-3">Add note</button>
     </form>
+  </div>
 
     <ul>
       {% for note in notes %}
